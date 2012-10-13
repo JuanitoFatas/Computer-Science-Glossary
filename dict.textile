@@ -1,0 +1,172 @@
+h1. 词汇表
+
+h2. 搜寻功能
+
+*直接使用浏览器搜寻功能查找该单词即可！*
+
+h2. 按字母索引
+
+|"A 开头":#a|"B 开头":#b|"C 开头":#c|"D 开头":#d|"E 开头":#e|"F 开头":#f|
+|"G 开头":#g|"H 开头":#h|"I 开头":#i|"J 开头":#j|"K 开头":#k|"L 开头":#l|
+|"M 开头":#m|"N 开头":#n|"O 开头":#o|"P 开头":#p|"Q 开头":#q|"R 开头":#r|
+|"S 开头":#s|"T 开头":#t|"U 开头":#u|"V 开头":#v|"W 开头":#w|"X 开头":#x|
+|"Y 开头":#y|"Z 开头":#z|||||
+
+------------------------------------------
+
+h2. A
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| automatically infer | 自动推导 | | |
+| algebraic date type | 代数数据类型 | | |
+| alternative | 备选 | | |
+
+h2. B
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| branch | 分支 | | |
+| base case | 基本情形 | | |
+| boilerplate | 公式化 | 样板 | |
+
+
+
+h2. C
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| chunk | 块 | | |
+| case | 分支 | | |
+| compound value | 复合数据 | 复合值 | |
+| collection | 收集器 | | |
+| currying | 柯里化 | | |
+| composition | 组合函数 | | |
+
+
+
+h2. D
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| deconstruction | 解构 | | |
+| directive | 指令 | | |
+
+h2. E
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| expression | 表达式 | | |
+| enumeration type | 枚举类型 | | |
+| export | 导出 | | |
+
+
+h2. F
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| fold | 折叠 | | |
+
+
+h2. D
+
+h2. G
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| generic function | 通用函数 | | |
+
+
+h2. H
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| high-order | 高阶 | | |
+
+
+h2. I
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| ill type | 类型不正确 | | |
+
+
+h2. J
+
+h2. K
+
+h2. L
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| list | 列表 | | |
+| lazy evaluation | 惰性求值 | | |
+| literal | 字面 | | |
+
+
+h2. M
+
+h2. N
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| non-strict evaluation | 非严格求值 | | |
+| non-strict | 非严格 | | |
+| native code | 本地码 | | |
+
+
+h2. O
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| object code | 目标代码 | | |
+
+
+h2. P
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| primitive recursive | 主递归 | | |
+| partial application | 部分应用 | | |
+| partial function application | 部分函数应用 | | |
+| particular ordering | 部分有序 | | |
+
+
+
+h2. Q
+
+h2. R
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| recursive case | 递归情形 | | |
+
+
+h2. S
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| strong type | 强类型 | | |
+| static type | 静态类型 | | |
+| statement | 陈述 | | |
+| strict evaluation | 严格求值 | | |
+| substitution | 代换 | | |
+| structural recursion | 结构递归 | | |
+| space leak | 内存泄漏 | | |
+| strict | 严格 | | |
+
+
+h2. T
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| type inference | 类型推导 | | |
+| tuple | 元组 | | |
+| type constructor | 类构造器 | | |
+| type synonym | 类型别名 | | |
+| top-level | 顶层 | | |
+
+
+h2. U
+
+h2. V
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| value constructor | 值构造器 | | |
+
+h2. W
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| well type | 类型正确 | | |
+
+
+h2. X
+
+h2. Y
+
+h2. Z
+
