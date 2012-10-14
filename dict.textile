@@ -30,9 +30,23 @@ h2. A
 | augmented | 扩充 | | |
 | anaphoric | 指代 | | |
 | auxiliary | 辅助 | | |
-
-
-
+| activate | 激活 | | |
+| access | 访问 | | |
+| access function | 访问函数 | | |
+| abstract | 抽象的 | | |
+| abstraction | 抽象 | | |
+| adapter | 适配器 | | |
+| address | 地址 | | |
+| algorithm | 算法 | | |
+| allocate | 分配 | | |
+| application | 应用 | 应用程序 | |
+| application framework | 应用框架 | | |
+| argument | 参数 | 自变量 | 实参 |
+| array | 数组 | | |
+| assembly | 汇编 | | |
+| associated | 关联的 | | |
+| atomic | 原子的 | | |
+| attribute | 属性 | 特性 | |
 
 h2. B
 
@@ -50,6 +64,21 @@ h2. B
 | bounds-checking | 边界检查 | | |
 | breadth-first | 广度优先 | | |
 | building | 创建 | | |
+| backward compatible | 向下兼容 | | |
+| base class | 基类 | | |
+| best viable function | 最佳可行函式 | 最佳可行函数 | |
+| binary search | 二分查找 | 二分搜索 | 二叉搜索 |
+| binary tree | 二叉树 | | |
+| binary operator | 二元操作符 | | |
+| bit | 位 | 比特 | |
+| block | 块 | 区块 | |
+| boolean | 布尔 | | |
+| border | 边框 | | |
+| brace | 花括弧 | 花括号 | |
+| bracket | 方括弧 | 方括号 | |
+| breakpoint | 断点 | | |
+| built-in | 内置 | | |
+| byte | 字节 | | |
 
 
 h2. C
@@ -60,11 +89,10 @@ h2. C
 | compound value | 复合数据 | 复合值 | |
 | collection | 收集器 | | |
 | currying | 柯里化 | | |
-| composition | 组合函数 | | |
+| composition | 组合 | 组合函数 | |
 | compile-time | 编译期 | | |
 | character | 字符 | | |
 | capture | 捕捉 | | |
-| class | 类 | 类别 | |
 | closed world assumption | 封闭世界假定 | | |
 | compilation | 编译 | | |
 | consequent | 结果 | 推论 | |
@@ -73,38 +101,108 @@ h2. C
 | complex | 复杂 | | |
 | conditional | 条件式 | | |
 | cons | 构造 | | |
+| cache | 缓存 | | |
+| call | 调用 | | |
+| callback | 回调 | | |
+| candidate function | 候选函数 | | |
+| child class | 子类 | | |
+| class | 类 | 类别 | |
+| class declaration | 类声明 | | |
+| class library | 类库 | | |
+| client | 客户 | | |
+| clipboard | 剪贴板 | | |
+| clone | 克隆 | | |
+| command line | 命令行 | | |
+| compatible | 兼容 | | |
+| compiler | 编译器 | | |
+| compile time | 编译期 | | |
+| component | 组件 | | |
+| computer | 计算机 | | |
+| concept | 概念 | | |
+| concrete | 具体 | | |
+| concurrent | 并发 | | |
+| configuration | 配置 | | |
+| connection | 连接 | | |
+| container | 容器 | | |
+| context | 上下文 | 语境 | 环境 |
+| control | 控件 | | |
+| constant | 常量 | | |
+| copy | 拷贝 | | |
+| create | 创建 | | |
+| cursor | 光标 | | |
+| closure | 闭包 | | |
+
 
 
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | data | 数据 | | |
+| data structure | 数据结构 | | |
+| database | 数据库 | | |
+| database schema | 数据库纲目 | | |
 | data type | 数据类型 | | |
+| datagram | 数据报文 | | |
 | deconstruction | 解构 | | |
 | directive | 指令 | | |
 | derived | 派生 | | |
 | define | 定义 | | |
+| definition | 定义 | | |
 | declaration | 声明 | | |
 | dispatch | 分派 | | |
-| dynamic extent | 动态作用域 | | |
 | dynamic languages | 动态语言 | | |
 | dynamic scope | 动态作用域 | | |
+| dynamic extent | 动态作用域 | | |
 | depth-first | 深度优先 | | |
 | declaring | 声明 | | |
+| dead lock | 死锁 | | |
+| debug | 调试 | | |
+| debugger | 调试器 | | |
+| deduction | 推导 | 推断 | |
+| default | 缺省 | 默认	| |
+| defer | 推迟 | | |
+| delegate | 委托 | | |
+| demarshal | 散集 | | |
+| derived class | 派生类 | | |
+| design pattern | 设计模式 | | |
+| directive | 指示符 | | |
+| directory | 目录 | | |
+| disk | 盘 | | |
+| distributed computing | 分布式计算 | | |
+| document | 文档 | | |
+| dynamic binding | 动态绑定 | | |
+
 
 
 h2. E
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | expression | 表达式 | | |
-| enumeration type | 枚举类型 | | |
-| export | 导出 | | |
+| export | 导出 | 引出 | |
 | equation | 方程 | | |
 | error-checking | 错误检查 | | |
+| evaluate | 求值 | 评估 | |
 | evaluation | 求值 | | |
 | exploratory programming | 探索式编程 | | |
 | extensibility | 可扩展性 | | |
 | expressive power | 表达能力 | | |
+| efficiency | 效率 | | |
+| efficient | 高效 | | |
+| encapsulation | 封装 | | |
+| enum | 枚举 | | |
+| enumrators | 枚举器 | | |
+| enumeration type | 枚举类型 | | |
+| equal | 相等 | | |
+| equality | 相等性 | | |
+| equivalence | 等价性 | | |
+| error message | 错误信息 | | |
+| event | 事件 | | |
+| event driven | 事件驱动 | | |
+| exception | 异常 | | |
+| exception handling | 异常处理 | | |
+| exception specification | 异常规范 | | |
+| exit | 退出 | | |
+| explicit | 显式 | | |
 
 
 h2. F
@@ -118,16 +216,40 @@ h2. F
 | functions | 函数 | | |
 | functional arguments | 函数型参数 | | |
 | functional programming | 函数式编程 | | |
+| feature | 特色 | | |
+| field | 字段 | 栏位 | |
+| file | 文件 | | |
+| firmware | 固件 | | |
+| flag | 标记 | | |
+| flash | 闪存 | | |
+| flexibility | 灵活性 | | |
+| flush | 刷新 | | |
+| font | 字体 | | |
+| form | 形式 | | |
+| formal parameter | 形参 | | |
+| forward | 转发 | | |
+| fractal | 分形 | | |
+| framework | 框架 | | |
+| function object | 函数对象 | | |
+| functionality | 功能性 | | |
 
 
 h2. G
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| generic | 通用的 | 泛化的 | |
 | generic function | 通用函数 | | |
+| generic algorithm | 通用算法 | 泛型算法 | |
+| generic programming | 通用编程 | 泛型编程 | |
 | garbage | 垃圾 | | |
 | garbage collection | 垃圾回收 | | |
 | generalized variables | 广义变量 | | |
-
+| generalized | 泛化 | | |
+| game | 游戏 | | |
+| generate | 生成 | | |
+| Genrative Programming | 生产式编程 | | |
+| global | 全局的 | | |
+| GUI | 图形介面 | | |
 
 
 h2. H
@@ -135,6 +257,13 @@ h2. H
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | high-order | 高阶 | | |
 | hash tables | 哈希表 | 散列表 | |
+| hardware | 硬件 | | |
+| hard disk | 硬件 | | |
+| header file | 头文件 | | |
+| handle | 处理器 | 处理程序 | 句柄 |
+| heap | 堆 | | |
+| hyperlink | 超链接 | | |
+
 
 
 h2. I
@@ -151,6 +280,32 @@ h2. I
 | incremental testing | 增量测试 | | |
 | instances | 实例 | | |
 | implicit | 隐式 | | |
+| iterate | 迭代 | | |
+| iterative | 迭代的 | | |
+| iteration | 迭代的 | | |
+| iterator | 迭代器 | | |
+| identical | 一致 | | |
+| identifier | 标识符 | | |
+| implement | 实现 | | |
+| import | 导入 | | |
+| infinite loop | 无限循环 | | |
+| infinite recursion | 无限递归 | | |
+| information | 信息 | | |
+| inheritance | 继承 | | |
+| inline | 内联 | | |
+| inline expansion | 内联展开 | | |
+| initialize | 初始化 | | |
+| initialization | 初始化 | | |
+| inner class | 内嵌类 | | |
+| integrate | 集成 | | |
+| interacts | 交互 | | |
+| interface | 接口 | | |
+| internet | 互联网 | 因特网 | |
+| interpret | 解释 | | |
+| interpreter | 解释器 | | |
+| invariants | 约束条件 | | |
+| invoke | 调用 | | |
+| item | 项 | | |
 
 
 h2. J
@@ -159,6 +314,8 @@ h2. K
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | keywords | 关键字 | | |
+| keyword argument | 关键字参数 | | |
+
 
 
 h2. L
@@ -168,8 +325,20 @@ h2. L
 | lazy | 惰性 | | |
 | lazy evaluation | 惰性求值 | | |
 | literal | 字面 | | |
+| literal constant | 字面常量 | | |
 | lexical scope | 词法作用域 | | |
+| local | 局部的 | | |
+| local variable | 局部变量 | | |
 | locality | 局部性 | | |
+| laser | 激光 | | |
+| library | 库 | 函数库 | |
+| lifetime | 生命期 | | |
+| link | 链接 | 连接 | |
+| linker | 连接器 | | |
+| load | 装载 | 加载 | |
+| loader | 装载器 | 加载器 | |
+| loop | 循环 | | |
+| lvalue | 左值 | | |
 
 
 h2. M
@@ -182,10 +351,33 @@ h2. M
 | mainframes | 大型机 | | |
 | mapping | 映射 | | |
 | mapping functions | 映射函数 | | |
+| memory | 内存 | | |
 | memorizing | 记忆化 | | |
+| message | 消息 | | |
 | message-passing | 消息传递 | | |
 | method combination | 方法组合 | 方法组合机制 | |
 | methods | 方法 | | |
+| maintain | 维护 | | |
+| mailing list | 邮件列表 | | |
+| manipulator | 操纵器 | | |
+| marshal | 列集 | | |
+| member | 成员 | | |
+| menu | 菜单 | | |
+| meta- | 元- | | |
+| meta-programming | 元编程 | | |
+| micro | 微 | | |
+| middleware | 中间件 | | |
+| modem | 调制解调器 | | |
+| module | 模块 | | |
+| modularity | 模块化 | | |
+| multiple values | 多值 | | |
+| modifier | 修饰符 | | |
+| mouse | 鼠标 | | |
+| multi-task | 多任务 | | |
+| mutable | 可变的 | | |
+| mutex | 互斥锁 | | |
+| model | 模型 | | |
+| machine learning | 机器学习 | | |
 
 
 h2. N
@@ -193,22 +385,34 @@ h2. N
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | non-strict evaluation | 非严格求值 | | |
 | non-strict | 非严格 | | |
+| native | 本地的 | | |
 | native code | 本地码 | | |
-| modularity | 模块化 | | |
-| multiple values | 多值 | | |
 | Non-deterministic choice | 非确定性选择 | | |
 | nested | 嵌套 | | |
+| nested class | 嵌套类 | | |
 | nondestructive version | 非破坏性的版本 | | |
-
-
+| namespace | 命名空间 | | |
+| network | 网络 | | |
+| natural language | 自然语言 | | |
+| natural language processing | 自然语言处理 | | |
 
 h2. O
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| object | 对象 | | |
 | object code | 目标代码 | | |
 | orthogonality | 正交性 | | |
 | object-oriented programming | 面向对象编程 | | |
-
+| online | 在线 | | |
+| operation | 操作 | | |
+| operator | 操作符 | | |
+| operand |  | | |
+| operating system | 操作系统 | | |
+| option | 选项 | | |
+| ordinary | 常规的 | | |
+| overflow | 溢出 | | |
+| overhead | 额外开销 | | |
+| overload | 重载 | | |
 
 
 h2. P
@@ -223,16 +427,52 @@ h2. P
 | polymorphic | 多态 | | |
 | pair | 点对 | | |
 | purely functional language | 纯函数式语言 | | |
-| parsers | 分析器 | 解析器 | |
+| parse | 解析 | | |
+| parsers | 解析器 | | |
 | phrenology | 相面 | | |
 | planning | 计画 | | |
 | pointers | 指针 | | |
 | pools | 池 | | |
 | process | 进程 | | |
 | productivity | 生产力 | | |
+| programmer | 程序员 | | |
+| programming | 编程 | | |
 | programming language | 编程语言 | | |
 | property list | 属性列表 | | |
-
+| primitive | 原语 | | |
+| package | 包 | | |
+| parameter | 参数 | 形参 | |
+| parent class | 父类 | | |
+| parentheses | 括号 | | |
+| pass by adress | | | |
+| pass by reference | | | |
+| pass by value | | | |
+| pattern | 模式 | | |
+| pattern match | 模式匹配 | | |
+| performance | 性能 | | |
+| persistence | 持久性 | | |
+| physical | 物理的 | | |
+| pixel | 像素 | | |
+| platform | 平台 | | |
+| pointer | 指针 | | |
+| poll | 轮询 | | |
+| polymorphism | 多态 | | |
+| port | 端口 | | |
+| postfix | 后序 | | |
+| preprocessor | 预处理器 | | |
+| prime | 素数 | | |
+| print | 打印 | | |
+| printer | 打印机 | | |
+| priority |  | | |
+| procedure | 过程 | | |
+| procedurual | 过程化的 | | |
+| profile | 评测 | | |
+| profiler | 评测器 | | |
+| project | 项目 | | |
+| property | 属性 | | |
+| protocol | 协议 | | |
+| pseudo code | 伪码 | | |
+| precedence |  | | |
 
 
 h2. Q
@@ -240,6 +480,10 @@ h2. Q
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | query | 查询 | | |
 | query language | 查询语言 | | |
+| qualified |  | | |
+| qualifier | 修饰符 | | |
+| quality | 质量 | | |
+| queue | 队列 | | |
 
 
 h2. R
@@ -252,7 +496,29 @@ h2. R
 | reuse of software | 代码重用 | | |
 | referential transparency | 引用透明 | | |
 | register | 寄存器 | | |
-
+| radian | 弧度 | | |
+| raise | 引起 | | |
+| random number | 随机数 | | |
+| range | 范围 | 区间 | |
+| rank |  | | |
+| raw | 未经处理的 | | |
+| record | 记录 | | |
+| refactor | 重构 | | |
+| refer | 参考 | | |
+| reference | 引用 | 参考 | |
+| refine | 精化 | | |
+| reflection | 反射 | 映像 | |
+| rational database | 关系数据库 | | |
+| represent | 表现 | | |
+| resolve | 解析 | | |
+| resolution | 解析度 | | |
+| return | 返回 | | |
+| return value | 返回值 | | |
+| robust | 健壮 | | |
+| robustness | 健壮性 | | |
+| routine | 例程 | | |
+| runtime | 运行期 | | |
+| rvalue | 右值 | | |
 
 h2. S
 
@@ -261,7 +527,7 @@ h2. S
 | strong type | 强类型 | | |
 | static type | 静态类型 | | |
 | static type system | 静态类型系统 | | |
-| statement | 陈述 | | |
+| statement | 陈述 | 语句 | |
 | strict evaluation | 严格求值 | | |
 | substitution | 代换 | | |
 | structural recursion | 结构递归 | | |
@@ -279,8 +545,34 @@ h2. S
 | symbol | 符号 | | |
 | symbolic computation | 符号计算 | | |
 | specialization | 特化 | | |
-
-
+| semaphore | 信号量 | | |
+| save | 储存 | | |
+| scalar type | 标量 | | |
+| schedule | 调度 | | |
+| scheduler |  调度程序 | | |
+| screen | 屏幕 | | |
+| search | 查找 | 搜寻 | |
+| semantics | 语义 | | |
+| sequential | 循序的 | 顺序的 | |
+| server | 服务器 | | |
+| serial | 串行 | | |
+| serialization | 序列化 | | |
+| signature | 签名 | | |
+| smart pointer | 智能指针 | | |
+| snapshot | 屏幕截图 | | |
+| specification | 规范 | | |
+| splitter | 切分窗口 | | |
+| software | 软件 | | |
+| solution | 方案 | | |
+| source code | 源代码 | | |
+| standard library | 标准函式库 | | |
+| status | 状态 | | |
+| stream | 流 | | |
+| subroutine |  | | |
+| subtype | 子类型 | | |
+| support | 支持 | | |
+| suspend | 挂起 | | |
+| syntax | 语法 | | |
 
 h2. T
 
@@ -304,7 +596,21 @@ h2. T
 | transition networks | 转移网络 | | |
 | tree | 树 | | |
 | Turing machines | 图灵机 | | |
-
+| table | 表格 | | |
+| tag | 标签 | 标记 | |
+| target | 目标 | | |
+| template | 模版 | | |
+| temporary object | 临时对象 | | |
+| text | 文本 | | |
+| text file | 文本文件 | | |
+| thread | 线程 | | |
+| tread safe | 多线程安全 | | |
+| throw | 抛出 | 丢掷 | 引发 |
+| token | 符号 | | |
+| transaction | 事务 | | |
+| transparent |  | | |
+| traverse | 遍历 | | |
+| trigger | 触发 | | |
 
 
 h2. U
@@ -313,8 +619,12 @@ h2. U
 | universally quantify | 全局量化 | | |
 | unification | 合一 | 统一 | |
 | utilities | 实用函数 | | |
-
-
+| underflow | 下溢 | | |
+| unary | 一元的 | | |
+| unwinding |  | | |
+| unqualfied |  | | |
+| user | 用户 | | |
+| user interface | 用户界面 | | |
 
 h2. V
 
@@ -323,12 +633,29 @@ h2. V
 | variable | 变量 | | |
 | variable capture | 变量捕捉 | | |
 | vector | 向量 | | |
+| viable function | 可行函数 | | |
+| video | 视频 | | |
+| view | 视图 | | |
+| virtual function | 虚函数 | | |
+| virtual machine | 虚拟机 | | |
+| virtual memory | 虚内存 | | |
+| volatile |  | | |
+| vowel | 元音 | | |
+
+
+
 
 
 h2. W
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | well type | 类型正确 | | |
+| warning message | 警告信息 | | |
+| wildcard | 通配符 | | |
+| window | 窗口 | | |
+| word | 单词 | | |
+| wrapper |  | | |
+
 
 h2. X
 
