@@ -20,6 +20,19 @@ h2. A
 | automatically infer | 自动推导 | | |
 | algebraic date type | 代数数据类型 | | |
 | alternative | 备选 | | |
+| atomic values | 原子型值 | | |
+| abbreviations | 缩略语 | | |
+| accumulators | 累积器 | | |
+| antecedent | 前提 | 前件 | 先决条件 |
+| artificial intelligence | 人工智能 | | |
+| assignment | 赋值 | | |
+| autometa theory | 自动机理论 | | |
+| augmented | 扩充 | | |
+| anaphoric | 指代 | | |
+| auxiliary | 辅助 | | |
+
+
+
 
 h2. B
 
@@ -27,7 +40,16 @@ h2. B
 | branch | 分支 | | |
 | base case | 基本情形 | | |
 | boilerplate | 公式化 | 样板 | |
-
+| backquote | 反引用 | | |
+| Bezier curves | 贝塞尔曲线 | | |
+| binding | 绑定 | | |
+| block-names | 代码块名字 | | |
+| body | 体 | | |
+| bottom-up design | 自底向上的设计 | | |
+| brevity | 简洁 | | |
+| bounds-checking | 边界检查 | | |
+| breadth-first | 广度优先 | | |
+| building | 创建 | | |
 
 
 h2. C
@@ -39,14 +61,37 @@ h2. C
 | collection | 收集器 | | |
 | currying | 柯里化 | | |
 | composition | 组合函数 | | |
-
+| compile-time | 编译期 | | |
+| character | 字符 | | |
+| capture | 捕捉 | | |
+| class | 类 | 类别 | |
+| closed world assumption | 封闭世界假定 | | |
+| compilation | 编译 | | |
+| consequent | 结果 | 推论 | |
+| continuations | 续延 | | |
+| clarity | 清晰 | | |
+| complex | 复杂 | | |
+| conditional | 条件式 | | |
+| cons | 构造 | | |
 
 
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| data | 数据 | | |
+| data type | 数据类型 | | |
 | deconstruction | 解构 | | |
 | directive | 指令 | | |
+| derived | 派生 | | |
+| define | 定义 | | |
+| declaration | 声明 | | |
+| dispatch | 分派 | | |
+| dynamic extent | 动态作用域 | | |
+| dynamic languages | 动态语言 | | |
+| dynamic scope | 动态作用域 | | |
+| depth-first | 深度优先 | | |
+| declaring | 声明 | | |
+
 
 h2. E
 
@@ -54,47 +99,94 @@ h2. E
 | expression | 表达式 | | |
 | enumeration type | 枚举类型 | | |
 | export | 导出 | | |
+| equation | 方程 | | |
+| error-checking | 错误检查 | | |
+| evaluation | 求值 | | |
+| exploratory programming | 探索式编程 | | |
+| extensibility | 可扩展性 | | |
+| expressive power | 表达能力 | | |
 
 
 h2. F
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | fold | 折叠 | | |
+| family | （类型的）系 | | |
+| first-class | 第一类的 | 第一级的 | |
+| formal relation | 形式关系 | | |
+| fractions | 派系 | | |
+| functions | 函数 | | |
+| functional arguments | 函数型参数 | | |
+| functional programming | 函数式编程 | | |
 
-
-h2. D
 
 h2. G
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | generic function | 通用函数 | | |
+| garbage | 垃圾 | | |
+| garbage collection | 垃圾回收 | | |
+| generalized variables | 广义变量 | | |
+
 
 
 h2. H
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | high-order | 高阶 | | |
+| hash tables | 哈希表 | 散列表 | |
 
 
 h2. I
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | ill type | 类型不正确 | | |
+| infix | 中序 | | |
+| infer | 推导 | | |
+| infinite-precision | 无限精度 | | |
+| integer | 整数 |  |  |
+| internal | 内部 | | |
+| interrupt | 中止 | 中断 | |
+| imperative programming | 命令式编程 | | |
+| incremental testing | 增量测试 | | |
+| instances | 实例 | | |
+| implicit | 隐式 | | |
 
 
 h2. J
 
 h2. K
 
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| keywords | 关键字 | | |
+
+
 h2. L
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | list | 列表 | | |
+| lazy | 惰性 | | |
 | lazy evaluation | 惰性求值 | | |
 | literal | 字面 | | |
+| lexical scope | 词法作用域 | | |
+| locality | 局部性 | | |
 
 
 h2. M
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| monomorphic type language | 单型语言 | | |
+| mismatch type | 类型不匹配 | | |
+| mapping | 映射 | | |
+| macro | 宏 | | |
+| mainframes | 大型机 | | |
+| mapping | 映射 | | |
+| mapping functions | 映射函数 | | |
+| memorizing | 记忆化 | | |
+| message-passing | 消息传递 | | |
+| method combination | 方法组合 | 方法组合机制 | |
+| methods | 方法 | | |
+
 
 h2. N
 
@@ -102,67 +194,141 @@ h2. N
 | non-strict evaluation | 非严格求值 | | |
 | non-strict | 非严格 | | |
 | native code | 本地码 | | |
+| modularity | 模块化 | | |
+| multiple values | 多值 | | |
+| Non-deterministic choice | 非确定性选择 | | |
+| nested | 嵌套 | | |
+| nondestructive version | 非破坏性的版本 | | |
+
 
 
 h2. O
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | object code | 目标代码 | | |
+| orthogonality | 正交性 | | |
+| object-oriented programming | 面向对象编程 | | |
+
 
 
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | primitive recursive | 主递归 | | |
+| parallel | 并行 | | |
 | partial application | 部分应用 | | |
 | partial function application | 部分函数应用 | | |
 | particular ordering | 部分有序 | | |
+| principal type | 主要类型 | | |
+| polymorphic | 多态 | | |
+| pair | 点对 | | |
+| purely functional language | 纯函数式语言 | | |
+| parsers | 分析器 | 解析器 | |
+| phrenology | 相面 | | |
+| planning | 计画 | | |
+| pointers | 指针 | | |
+| pools | 池 | | |
+| process | 进程 | | |
+| productivity | 生产力 | | |
+| programming language | 编程语言 | | |
+| property list | 属性列表 | | |
 
 
 
 h2. Q
 
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| query | 查询 | | |
+| query language | 查询语言 | | |
+
+
 h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| recursion | 递归 | | |
 | recursive case | 递归情形 | | |
+| right associative | 右结合 | | |
+| rapid prototyping | 快速原型开发 | | |
+| reuse of software | 代码重用 | | |
+| referential transparency | 引用透明 | | |
+| register | 寄存器 | | |
 
 
 h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| scope | 作用域 | | |
 | strong type | 强类型 | | |
 | static type | 静态类型 | | |
+| static type system | 静态类型系统 | | |
 | statement | 陈述 | | |
 | strict evaluation | 严格求值 | | |
 | substitution | 代换 | | |
 | structural recursion | 结构递归 | | |
+| structured values | 结构型值 | | |
 | space leak | 内存泄漏 | | |
 | strict | 严格 | | |
+| series | 串行 | 级数 | |
+| side-effects | 副作用 | | |
+| sketch | 草图 | | |
+| slot | 槽 | | |
+| squash | 碰撞 | | |
+| stack | 栈 | | |
+| string | 字串 | 字符串 | |
+| swapping values | 交换变量的值 | | |
+| symbol | 符号 | | |
+| symbolic computation | 符号计算 | | |
+| specialization | 特化 | | |
+
 
 
 h2. T
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| type | 类型 | | |
+| type signature | 类型签名 | | |
+| type variable | 类型变量 | | |
+| typable | 类型合法 | | |
+| type safe | 类型安全 | | |
+| typing | 类型指派 | 输入 | |
 | type inference | 类型推导 | | |
 | tuple | 元组 | | |
 | type constructor | 类构造器 | | |
 | type synonym | 类型别名 | | |
 | top-level | 顶层 | | |
+| tail-recursion | 尾递归 | | |
+| taxable operators | 需节制使用的操作符 | | |
+| testing | 测试 | | |
+| three-valued logic | 三值逻辑 | | |
+| top-down design | 自顶向下的设计 | | |
+| transition networks | 转移网络 | | |
+| tree | 树 | | |
+| Turing machines | 图灵机 | | |
+
 
 
 h2. U
+
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
+| universally quantify | 全局量化 | | |
+| unification | 合一 | 统一 | |
+| utilities | 实用函数 | | |
+
+
 
 h2. V
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | value constructor | 值构造器 | | |
+| variable | 变量 | | |
+| variable capture | 变量捕捉 | | |
+| vector | 向量 | | |
+
 
 h2. W
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | well type | 类型正确 | | |
-
 
 h2. X
 
