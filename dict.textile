@@ -17,15 +17,19 @@ h2. 按字母索引
 h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| arithmetic | 算术 | | |
 | automatically infer | 自动推导 | | |
+| automatic memory management | 自动内存管理  | | |
 | algebraic date type | 代数数据类型 | | |
 | alternative | 备选 | | |
+| atom | 原子 | | |
 | atomic values | 原子型值 | | |
 | abbreviations | 缩略语 | | |
 | accumulators | 累积器 | | |
 | antecedent | 前提 | 前件 | 先决条件 |
 | artificial intelligence | 人工智能 | | |
 | assignment | 赋值 | | |
+| assignment operator | 赋值操作符 | | |
 | autometa theory | 自动机理论 | | |
 | augmented | 扩充 | | |
 | anaphoric | 指代 | | |
@@ -35,18 +39,24 @@ h2. A
 | access function | 访问函数 | | |
 | abstract | 抽象的 | | |
 | abstraction | 抽象 | | |
+| abstract syntax tree | 抽象语法树 | | |
 | adapter | 适配器 | | |
 | address | 地址 | | |
 | algorithm | 算法 | | |
 | allocate | 分配 | | |
 | application | 应用 | 应用程序 | |
 | application framework | 应用框架 | | |
+| applicative | 应用序 | | |
 | argument | 参数 | 自变量 | 实参 |
 | array | 数组 | | |
 | assembly | 汇编 | | |
 | associated | 关联的 | | |
 | atomic | 原子的 | | |
 | attribute | 属性 | 特性 | |
+| annotation | 注解 | | |
+| anonymous function | 匿名函数 | | |
+
+
 
 h2. B
 
@@ -58,7 +68,7 @@ h2. B
 | Bezier curves | 贝塞尔曲线 | | |
 | binding | 绑定 | | |
 | block-names | 代码块名字 | | |
-| body | 体 | | |
+| body | 体 | 主体 | |
 | bottom-up design | 自底向上的设计 | | |
 | brevity | 简洁 | | |
 | bounds-checking | 边界检查 | | |
@@ -72,6 +82,7 @@ h2. B
 | binary operator | 二元操作符 | | |
 | bit | 位 | 比特 | |
 | block | 块 | 区块 | |
+| block structure | 块结构 | 区块结构 | |
 | boolean | 布尔 | | |
 | border | 边框 | | |
 | brace | 花括弧 | 花括号 | |
@@ -79,6 +90,8 @@ h2. B
 | breakpoint | 断点 | | |
 | built-in | 内置 | | |
 | byte | 字节 | | |
+| bug | 臭虫 | | |
+| black-box abstraction | 黑箱抽象 | | |
 
 
 h2. C
@@ -155,6 +168,9 @@ h2. D
 | dynamic extent | 动态作用域 | | |
 | depth-first | 深度优先 | | |
 | declaring | 声明 | | |
+| declarative | 声明式 | 说明式 | |
+| declarative programming | 说明式编程 | 声明式编程 | |
+| declarative knowledge | 说明式知识 | 声明式知识 | |
 | dead lock | 死锁 | | |
 | debug | 调试 | | |
 | debugger | 调试器 | | |
@@ -171,6 +187,7 @@ h2. D
 | distributed computing | 分布式计算 | | |
 | document | 文档 | | |
 | dynamic binding | 动态绑定 | | |
+| dangling pointer | 迷途指针 | 野指针 | |
 
 
 
@@ -179,6 +196,7 @@ h2. E
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | expression | 表达式 | | |
 | export | 导出 | 引出 | |
+| exactly |  | | |
 | equation | 方程 | | |
 | error-checking | 错误检查 | | |
 | evaluate | 求值 | 评估 | |
@@ -192,6 +210,7 @@ h2. E
 | enum | 枚举 | | |
 | enumrators | 枚举器 | | |
 | enumeration type | 枚举类型 | | |
+| environment | 环境 | | |
 | equal | 相等 | | |
 | equality | 相等性 | | |
 | equivalence | 等价性 | | |
@@ -203,14 +222,19 @@ h2. E
 | exception specification | 异常规范 | | |
 | exit | 退出 | | |
 | explicit | 显式 | | |
+| external representation | 外部表示法  | | |
 
 
 h2. F
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| floating point | 浮点数 | | |
+| floating-point notation | 浮点数表示法 | | |
 | fold | 折叠 | | |
 | family | （类型的）系 | | |
 | first-class | 第一类的 | 第一级的 | |
+| first-class object | 第一类的对象 | 第一级的对象 | 一等公民 |
+| fixed-point | 不动点  | | |
 | formal relation | 形式关系 | | |
 | fractions | 派系 | | |
 | functions | 函数 | | |
@@ -250,12 +274,15 @@ h2. G
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
 | GUI | 图形介面 | | |
+| Greatest Common Divisor | 最大公因数 | | |
 
 
 h2. H
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | high-order | 高阶 | | |
+| higher-order function | 高阶函数 | | |
+| higher-order procedure | 高阶过程 | | |
 | hash tables | 哈希表 | 散列表 | |
 | hardware | 硬件 | | |
 | hard disk | 硬件 | | |
@@ -270,6 +297,8 @@ h2. I
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | ill type | 类型不正确 | | |
+| indent | 缩排 | | |
+| indention | 缩排 | | |
 | infix | 中序 | | |
 | infer | 推导 | | |
 | infinite-precision | 无限精度 | | |
@@ -299,6 +328,9 @@ h2. I
 | inner class | 内嵌类 | | |
 | integrate | 集成 | | |
 | interacts | 交互 | | |
+| interactive testing | 交互式测试 | | |
+| interactive language | 交互式语言 | | |
+| interactive programming environment | 交互式编程环境 | | |
 | interface | 接口 | | |
 | internet | 互联网 | 因特网 | |
 | interpret | 解释 | | |
@@ -321,12 +353,16 @@ h2. K
 h2. L
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| linear recursion | 线性递归 | | |
+| linear iteration | 线性迭代 | | |
 | list | 列表 | | |
 | lazy | 惰性 | | |
 | lazy evaluation | 惰性求值 | | |
 | literal | 字面 | | |
 | literal constant | 字面常量 | | |
+| lexical | 词法的 | | |
 | lexical scope | 词法作用域 | | |
+| lexical closure | 词法闭包 | | |
 | local | 局部的 | | |
 | local variable | 局部变量 | | |
 | locality | 局部性 | | |
@@ -339,7 +375,7 @@ h2. L
 | loader | 装载器 | 加载器 | |
 | loop | 循环 | | |
 | lvalue | 左值 | | |
-
+| lambda calculus | lambda 演算 | | |
 
 h2. M
 
@@ -360,6 +396,7 @@ h2. M
 | maintain | 维护 | | |
 | mailing list | 邮件列表 | | |
 | manipulator | 操纵器 | | |
+| manifest typing | 显示类型 | | |
 | marshal | 列集 | | |
 | member | 成员 | | |
 | menu | 菜单 | | |
@@ -378,6 +415,8 @@ h2. M
 | mutex | 互斥锁 | | |
 | model | 模型 | | |
 | machine learning | 机器学习 | | |
+| machine language code | 机器语言代码 | | |
+
 
 
 h2. N
@@ -395,6 +434,8 @@ h2. N
 | network | 网络 | | |
 | natural language | 自然语言 | | |
 | natural language processing | 自然语言处理 | | |
+| newline | 换行 | 新行 | |
+
 
 h2. O
 
@@ -418,7 +459,9 @@ h2. O
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| paradigm | 范式 | | |
 | primitive recursive | 主递归 | | |
+| predicate | 判断式 | 谓词 | |
 | parallel | 并行 | | |
 | partial application | 部分应用 | | |
 | partial function application | 部分函数应用 | | |
@@ -439,11 +482,13 @@ h2. P
 | programming | 编程 | | |
 | programming language | 编程语言 | | |
 | property list | 属性列表 | | |
+| prompt | 提示符 | | |
 | primitive | 原语 | | |
 | package | 包 | | |
 | parameter | 参数 | 形参 | |
 | parent class | 父类 | | |
 | parentheses | 括号 | | |
+| paren-matching | 括号匹配 | | |
 | pass by adress | | | |
 | pass by reference | | | |
 | pass by value | | | |
@@ -454,6 +499,7 @@ h2. P
 | physical | 物理的 | | |
 | pixel | 像素 | | |
 | platform | 平台 | | |
+| placeholder | 占位符 | | |
 | pointer | 指针 | | |
 | poll | 轮询 | | |
 | polymorphism | 多态 | | |
@@ -463,9 +509,11 @@ h2. P
 | prime | 素数 | | |
 | print | 打印 | | |
 | printer | 打印机 | | |
+| printed representation | 打印表示法 | | |
 | priority |  | | |
 | procedure | 过程 | | |
 | procedurual | 过程化的 | | |
+| procedurual knowledge | 过程式知识 | | |
 | profile | 评测 | | |
 | profiler | 评测器 | | |
 | project | 项目 | | |
@@ -489,6 +537,9 @@ h2. Q
 h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| read | 读取 | | |
+| read-eval-print loop | 读取-求值-打印循环 | | |
+| REPL | 读取-求值-打印循环 | | |
 | recursion | 递归 | | |
 | recursive case | 递归情形 | | |
 | right associative | 右结合 | | |
@@ -518,6 +569,8 @@ h2. R
 | robustness | 健壮性 | | |
 | routine | 例程 | | |
 | runtime | 运行期 | | |
+| run-time typing | 运行期类型 | | |
+| return | 回车 | | |
 | rvalue | 右值 | | |
 
 h2. S
@@ -530,6 +583,7 @@ h2. S
 | statement | 陈述 | 语句 | |
 | strict evaluation | 严格求值 | | |
 | substitution | 代换 | | |
+| substitution model | 代换模型 | | |
 | structural recursion | 结构递归 | | |
 | structured values | 结构型值 | | |
 | space leak | 内存泄漏 | | |
@@ -541,9 +595,12 @@ h2. S
 | squash | 碰撞 | | |
 | stack | 栈 | | |
 | string | 字串 | 字符串 | |
+| string template | 字串模版 | | |
 | swapping values | 交换变量的值 | | |
 | symbol | 符号 | | |
 | symbolic computation | 符号计算 | | |
+| special variable | 特殊变量 | | |
+| special form | 特殊形式 | | |
 | specialization | 特化 | | |
 | semaphore | 信号量 | | |
 | save | 储存 | | |
@@ -553,6 +610,7 @@ h2. S
 | screen | 屏幕 | | |
 | search | 查找 | 搜寻 | |
 | semantics | 语义 | | |
+| sequence | 序列 | | |
 | sequential | 循序的 | 顺序的 | |
 | server | 服务器 | | |
 | serial | 串行 | | |
@@ -571,8 +629,13 @@ h2. S
 | subroutine |  | | |
 | subtype | 子类型 | | |
 | support | 支持 | | |
+| supertype | 超集 | | |
 | suspend | 挂起 | | |
 | syntax | 语法 | | |
+| sharp-quote | 升引号 | | |
+| square | 平方 | | |
+| square root | 平方根 | | |
+
 
 h2. T
 
@@ -580,6 +643,7 @@ h2. T
 | type | 类型 | | |
 | type signature | 类型签名 | | |
 | type variable | 类型变量 | | |
+| type declarations | 类型声明 | | |
 | typable | 类型合法 | | |
 | type safe | 类型安全 | | |
 | typing | 类型指派 | 输入 | |
@@ -589,12 +653,14 @@ h2. T
 | type synonym | 类型别名 | | |
 | top-level | 顶层 | | |
 | tail-recursion | 尾递归 | | |
+| tail-recursive | 尾递归的 | | |
 | taxable operators | 需节制使用的操作符 | | |
 | testing | 测试 | | |
 | three-valued logic | 三值逻辑 | | |
 | top-down design | 自顶向下的设计 | | |
 | transition networks | 转移网络 | | |
 | tree | 树 | | |
+| tree recursion| 树形递归 | | |
 | Turing machines | 图灵机 | | |
 | table | 表格 | | |
 | tag | 标签 | 标记 | |
@@ -660,6 +726,9 @@ h2. W
 h2. X
 
 h2. Y
+
+| y combinator | Y组合子 |  | |
+
 
 h2. Z
 
