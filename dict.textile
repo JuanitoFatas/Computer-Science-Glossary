@@ -55,13 +55,16 @@ h2. A
 | attribute | 属性 | 特性 | |
 | annotation | 注解 | | |
 | anonymous function | 匿名函数 | | |
+| AI, Artificial Intelligence | 人工智能 | | |
+| API, Application Program Interface | 应用程序编程接口 | | |
+| ASP, Application Service Provider | 应用程序服务提供商 | | |
 
 
 
 h2. B
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| branch | 分支 | | |
+| branch | 分支 | 跳转 | |
 | base case | 基本情形 | | |
 | boilerplate | 公式化 | 样板 | |
 | backquote | 反引用 | | |
@@ -70,7 +73,9 @@ h2. B
 | block-names | 代码块名字 | | |
 | body | 体 | 主体 | |
 | bottom-up design | 自底向上的设计 | | |
+| bottom-up programming | 自底向上编程 | | |
 | brevity | 简洁 | | |
+| bound | 限制 | | |
 | bounds-checking | 边界检查 | | |
 | breadth-first | 广度优先 | | |
 | building | 创建 | | |
@@ -81,6 +86,7 @@ h2. B
 | binary tree | 二叉树 | | |
 | binary operator | 二元操作符 | | |
 | bit | 位 | 比特 | |
+| bit manipulation | 位操作 | | |
 | block | 块 | 区块 | |
 | block structure | 块结构 | 区块结构 | |
 | boolean | 布尔 | | |
@@ -90,8 +96,16 @@ h2. B
 | breakpoint | 断点 | | |
 | built-in | 内置 | | |
 | byte | 字节 | | |
+| byte code | 字节码 | | |
 | bug | 臭虫 | | |
 | black-box abstraction | 黑箱抽象 | | |
+| bandwidth | 带宽 | | |
+| Bayesian | 贝叶斯定理 | | |
+| bloatcode | 代码膨胀 | | |
+| Blub Paradox | Blue 困境 | | |
+| buffer | 缓冲区 | | |
+| buffer overflow attack | 缓冲区溢出攻击 | | |
+
 
 
 h2. C
@@ -112,6 +126,7 @@ h2. C
 | continuations | 续延 | | |
 | clarity | 清晰 | | |
 | complex | 复杂 | | |
+| complexity | 复杂度 | | |
 | conditional | 条件式 | | |
 | cons | 构造 | | |
 | cache | 缓存 | | |
@@ -122,7 +137,7 @@ h2. C
 | class | 类 | 类别 | |
 | class declaration | 类声明 | | |
 | class library | 类库 | | |
-| client | 客户 | | |
+| client | 客户 | 客户端 | |
 | clipboard | 剪贴板 | | |
 | clone | 克隆 | | |
 | command line | 命令行 | | |
@@ -144,6 +159,13 @@ h2. C
 | create | 创建 | | |
 | cursor | 光标 | | |
 | closure | 闭包 | | |
+| CGI, Common Gateway Interface | 通用网关接口 | | |
+| checksum | 校验和 | | |
+| circular definition | 循环定义 | | |
+| content-based filtering | 基于内容的过滤 | | |
+| crash | 崩溃 | | |
+| cycle | 周期 | | |
+| DARPA, Defense Advanced Research Projects Agency | 美国国防部高级研究计划局 | | |
 
 
 
@@ -166,6 +188,7 @@ h2. D
 | dynamic languages | 动态语言 | | |
 | dynamic scope | 动态作用域 | | |
 | dynamic extent | 动态作用域 | | |
+| dynamic type | 动态类型 | | |
 | depth-first | 深度优先 | | |
 | declaring | 声明 | | |
 | declarative | 声明式 | 说明式 | |
@@ -188,6 +211,9 @@ h2. D
 | document | 文档 | | |
 | dynamic binding | 动态绑定 | | |
 | dangling pointer | 迷途指针 | 野指针 | |
+| debugging | 排错 | | |
+| deprecated | 废弃 | | |
+| device driver | 硬件驱动程序 | | |
 
 
 
@@ -223,6 +249,7 @@ h2. E
 | exit | 退出 | | |
 | explicit | 显式 | | |
 | external representation | 外部表示法  | | |
+| embedded language | 嵌入式语言 | | |
 
 
 h2. F
@@ -237,7 +264,7 @@ h2. F
 | fixed-point | 不动点  | | |
 | formal relation | 形式关系 | | |
 | fractions | 派系 | | |
-| functions | 函数 | | |
+| function | 函数 | | |
 | functional arguments | 函数型参数 | | |
 | functional programming | 函数式编程 | | |
 | feature | 特色 | | |
@@ -256,6 +283,7 @@ h2. F
 | framework | 框架 | | |
 | function object | 函数对象 | | |
 | functionality | 功能性 | | |
+| freeware | 自由软件 | | |
 
 
 h2. G
@@ -275,6 +303,9 @@ h2. G
 | global | 全局的 | | |
 | GUI | 图形介面 | | |
 | Greatest Common Divisor | 最大公因数 | | |
+| garbage collection | 垃圾收集 | | |
+| glue program | 胶水程序 |
+| Greenspun's Tenth Rule | 格林斯潘第十定律 | | |
 
 
 h2. H
@@ -290,6 +321,11 @@ h2. H
 | handle | 处理器 | 处理程序 | 句柄 |
 | heap | 堆 | | |
 | hyperlink | 超链接 | | |
+| hack | 破解 | | |
+| hacker | 黑客 | | |
+| heuristic | 启发式 | | |
+| HTML, HyperText Markup Language | 超文本标记语言 | | |
+| HTTP, HyperText Transfer Protocol | 超文本传输协议 | | |
 
 
 
@@ -338,6 +374,10 @@ h2. I
 | invariants | 约束条件 | | |
 | invoke | 调用 | | |
 | item | 项 | | |
+| indented | 缩进 | | |
+| instrument | 记录仪 | | |
+| input | 输入 | | |
+| IT, information Technology | 信息技术 | | |
 
 
 h2. J
@@ -347,6 +387,7 @@ h2. K
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | keywords | 关键字 | | |
 | keyword argument | 关键字参数 | | |
+| kludge | 蹩脚 | | |
 
 
 
@@ -360,6 +401,7 @@ h2. L
 | lazy evaluation | 惰性求值 | | |
 | literal | 字面 | | |
 | literal constant | 字面常量 | | |
+| literal representation | 字面量 | | |
 | lexical | 词法的 | | |
 | lexical scope | 词法作用域 | | |
 | lexical closure | 词法闭包 | | |
@@ -376,6 +418,9 @@ h2. L
 | loop | 循环 | | |
 | lvalue | 左值 | | |
 | lambda calculus | lambda 演算 | | |
+| legacy software | 历史遗留软件 | | |
+| larval startup | 雏形创业公司 | | |
+| LFSP, Language For Smart People | 聪明人的语言 | | |
 
 h2. M
 
@@ -391,6 +436,7 @@ h2. M
 | memorizing | 记忆化 | | |
 | message | 消息 | | |
 | message-passing | 消息传递 | | |
+| method | 方法 | | |
 | method combination | 方法组合 | 方法组合机制 | |
 | methods | 方法 | | |
 | maintain | 维护 | | |
@@ -415,7 +461,13 @@ h2. M
 | mutex | 互斥锁 | | |
 | model | 模型 | | |
 | machine learning | 机器学习 | | |
+| machine language | 机器语言 | | |
 | machine language code | 机器语言代码 | | |
+| machine instruction | 机器指令 | | |
+| mainframe | 大型机 | | | 
+| math envy | 对数学家的妒忌 | | |
+| metacircular | 元循环 | | |
+| Moore's Law | 摩尔定律 | | |
 
 
 
@@ -435,6 +487,7 @@ h2. N
 | natural language | 自然语言 | | |
 | natural language processing | 自然语言处理 | | |
 | newline | 换行 | 新行 | |
+| number crunching | 数字密集运算 | | |
 
 
 h2. O
@@ -443,17 +496,24 @@ h2. O
 | object | 对象 | | |
 | object code | 目标代码 | | |
 | orthogonality | 正交性 | | |
+| object-oriented | 面向对象 | | |
 | object-oriented programming | 面向对象编程 | | |
 | online | 在线 | | |
 | operation | 操作 | | |
 | operator | 操作符 | | |
 | operand |  | | |
-| operating system | 操作系统 | | |
 | option | 选项 | | |
 | ordinary | 常规的 | | |
 | overflow | 溢出 | | |
 | overhead | 额外开销 | | |
 | overload | 重载 | | |
+| Occam's Razor | 奥卡姆剃刀原则 | | |
+| open source | 开发源码 | | |
+| OS, Operating System | 操作系统 | | |
+| optimization | 优化 | | |
+| parallel computer | 并行计算机 | | |
+| Parkinson's Law | 帕金森法则 | | |
+
 
 
 h2. P
@@ -471,7 +531,8 @@ h2. P
 | pair | 点对 | | |
 | purely functional language | 纯函数式语言 | | |
 | parse | 解析 | | |
-| parsers | 解析器 | | |
+| parser | 解析器 | | |
+| parser tree | 解释树 | | |
 | phrenology | 相面 | | |
 | planning | 计画 | | |
 | pointers | 指针 | | |
@@ -501,6 +562,7 @@ h2. P
 | platform | 平台 | | |
 | placeholder | 占位符 | | |
 | pointer | 指针 | | |
+| pointer arithmetic | 指针运算 | | |
 | poll | 轮询 | | |
 | polymorphism | 多态 | | |
 | port | 端口 | | |
@@ -515,12 +577,21 @@ h2. P
 | procedurual | 过程化的 | | |
 | procedurual knowledge | 过程式知识 | | |
 | profile | 评测 | | |
-| profiler | 评测器 | | |
+| profiler | 评测器 | 性能分析器 | |
 | project | 项目 | | |
 | property | 属性 | | |
 | protocol | 协议 | | |
 | pseudo code | 伪码 | | |
 | precedence |  | | |
+| path | 补丁 | | |
+| pipe | 管道 | | |
+| polynomial | 多项式的 | | |
+| portable | 可移植性 | | | 
+| portal | 门户 | | |
+| premature design | 过早设计 | | |
+| pseudocode | 伪码 | | |
+
+
 
 
 h2. Q
@@ -532,6 +603,7 @@ h2. Q
 | qualifier | 修饰符 | | |
 | quality | 质量 | | |
 | queue | 队列 | | |
+| QA, Quality Assurance | 质量保证 | | |
 
 
 h2. R
@@ -541,6 +613,7 @@ h2. R
 | read-eval-print loop | 读取-求值-打印循环 | | |
 | REPL | 读取-求值-打印循环 | | |
 | recursion | 递归 | | |
+| recursive | 递归 | | |
 | recursive case | 递归情形 | | |
 | right associative | 右结合 | | |
 | rapid prototyping | 快速原型开发 | | |
@@ -572,6 +645,11 @@ h2. R
 | run-time typing | 运行期类型 | | |
 | return | 回车 | | |
 | rvalue | 右值 | | |
+| RAID, Redundant Array of Independent Disks | 冗余独立磁盘阵列 | | |
+| read-eval-print loop | “读取——求值——打印“循环 | | |
+| regular expression | 正则表达式 | | |
+| RISC, Reduced Instruction Set Computer | 精简指令系统计算机 | | |
+
 
 h2. S
 
@@ -635,6 +713,18 @@ h2. S
 | sharp-quote | 升引号 | | |
 | square | 平方 | | |
 | square root | 平方根 | | |
+| scan | 扫描 | | |
+| scripting language | 脚本语言 | | |
+| s-expression | s-表达式 | | |
+| socket | 套接字 | | |
+| spaghetti | 面条式代码 | | |
+| spam | 垃圾邮件 | | |
+| spce | 规格 | | |
+| SSL, Secure Sockets Layer | 安全套接字层 | | |
+| state machine | 状态机 | | |
+| subset | 子集 | | |
+| system administrator | 系统管理员 | | |
+| system administrator disease | 系统管理员综合症 | | |
 
 
 h2. T
@@ -672,11 +762,15 @@ h2. T
 | thread | 线程 | | |
 | tread safe | 多线程安全 | | |
 | throw | 抛出 | 丢掷 | 引发 |
-| token | 符号 | | |
+| token | 符号 | 语义单位 | |
 | transaction | 事务 | | |
 | transparent |  | | |
 | traverse | 遍历 | | |
 | trigger | 触发 | | |
+| throwaway program | 一次性程序 | | |
+| toplevel | 顶层解释器 | | |
+| Turing-complete | 图灵完备 | | |
+| Turing-machine | 图灵机 | | |
 
 
 h2. U
@@ -690,7 +784,9 @@ h2. U
 | unwinding |  | | |
 | unqualfied |  | | |
 | user | 用户 | | |
-| user interface | 用户界面 | | |
+| UI, user interface | 用户界面 | | |
+| uptime | 运行时间 | | |
+| URL, Uniform Resource Locator | 统一资源定位符 | | |
 
 h2. V
 
@@ -707,6 +803,8 @@ h2. V
 | virtual memory | 虚内存 | | |
 | volatile |  | | |
 | vowel | 元音 | | |
+| vaporware | 朦胧件 | | |
+| VC, Venture Capitalist | 风险投资商 | | |
 
 
 
@@ -721,6 +819,8 @@ h2. W
 | window | 窗口 | | |
 | word | 单词 | | |
 | wrapper |  | | |
+| web server | 网络服务器 | | |
+| WYSIWYG, What You See Is What You Get | 所见即所得 | | |
 
 
 h2. X
