@@ -464,7 +464,6 @@ h2. M
 | machine language | 机器语言 | | |
 | machine language code | 机器语言代码 | | |
 | machine instruction | 机器指令 | | |
-| mainframe | 大型机 | | | 
 | math envy | 对数学家的妒忌 | | |
 | metacircular | 元循环 | | |
 | Moore's Law | 摩尔定律 | | |
@@ -586,7 +585,7 @@ h2. P
 | path | 补丁 | | |
 | pipe | 管道 | | |
 | polynomial | 多项式的 | | |
-| portable | 可移植性 | | | 
+| portable | 可移植性 | | |
 | portal | 门户 | | |
 | premature design | 过早设计 | | |
 | pseudocode | 伪码 | | |
