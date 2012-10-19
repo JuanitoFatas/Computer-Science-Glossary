@@ -66,7 +66,7 @@ h2. A
 h2. B
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| backtrace | | | |
+| backtrace | 回溯 | | |
 | branch | 分支 | 跳转 | |
 | base case | 基本情形 | | |
 | boilerplate | 公式化 | 样板 | |
@@ -117,11 +117,11 @@ h2. C
 | coma |  | | |
 | Cucumber |  | | |
 | code |  | | |
-| command-line |  | | |
+| command-line | 命令行  | | |
 | CLI | | | |
-| CamelCase |  | | |
-| constraint |  | | |
-| constraint programming |  | | |
+| CamelCase | | | |
+| constraint | 约束  | | |
+| constraint programming | 约束式编程 | | |
 | computation | 计算 | | |
 | compliment | 补集 | | |
 | compression | 压缩 | | |
@@ -566,7 +566,7 @@ h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | param | | | |
-| prototype |  | | |
+| prototype | 原型 | | |
 | proper list | 正规列表 | | |
 | pushdown stack | 下推栈 | | |
 | palindrome | 回文 | | |
