@@ -464,7 +464,7 @@ h2. M
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | migration | （数据库）迁移 | | |
-| monkey patch |  | | |
+| monkey patch | 猴子补丁 | | |
 | minimal network | 最小网络 | | |
 | mirror | 镜射 | | |
 | monad | 单子 | | |
