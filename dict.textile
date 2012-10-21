@@ -662,7 +662,7 @@ h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | Rake | | | |
-| request | | | |
+| request | 请求 | | |
 | read | 读取 | | |
 | read-macro | 读取宏 | | |
 | read-eval-print loop | 读取-求值-打印循环 | | |
