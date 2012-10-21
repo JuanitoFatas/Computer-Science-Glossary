@@ -796,8 +796,8 @@ h2. T
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | TAOCP | 《计算机程序设计艺术》| | |
-| timestamp |  | | |
 | trailing space | | | |
+| timestamp | 时间戳 | | |
 | taxonomy | | | |
 | trace | 追踪 | | |
 | type | 类型 | | |
