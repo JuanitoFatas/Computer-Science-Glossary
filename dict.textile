@@ -18,7 +18,6 @@ h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | assoc-list, alist | 关联列表 | | |
-| a block of pointers | 一块指针 | | |
 | arithmetic | 算术 | | |
 | automatically infer | 自动推导 | | |
 | automatic memory management | 自动内存管理  | | |
@@ -53,7 +52,7 @@ h2. A
 | applicative | 应用序 | | |
 | argument | 参数 | 自变量 | 实参 |
 | array | 数组 | | |
-| assemble |  | | |
+| assemble | 组合 | | |
 | assembly | 汇编 | | |
 | associated | 关联的 | | |
 | atomic | 原子的 | | |
@@ -63,12 +62,12 @@ h2. A
 | AI, Artificial Intelligence | 人工智能 | | |
 | API, Application Program Interface | 应用程序编程接口 | | |
 | ASP, Application Service Provider | 应用程序服务提供商 | | |
-
-
+| a block of pointers | 一块指针 | 一组指针| |
 
 h2. B
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| blub |  | | |
 | bignum | 大数 | | |
 | backtrace | 回溯 | | |
 | branch | 分支 | 跳转 | |
@@ -198,8 +197,6 @@ h2. C
 | Common Lisp Object System | Common Lisp 对象系统 | | |
 
 
-
-
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
@@ -208,11 +205,11 @@ h2. D
 | delegation |  | | |
 | DARPA, Defense Advanced Research Projects Agency | 美国国防部高级研究计划局 | | |
 | dellocate | 释放 | | |
-| data-driven | | | |
 | dotted list | 点状列表 | | |
 | destructive | 破坏性的 | | |
 | destructive function | 破坏性函数 | | |
 | data | 数据 | | |
+| data-driven | 数据驱动 | | |
 | data structure | 数据结构 | | |
 | database | 数据库 | | |
 | database schema | 数据库纲目 | | |
@@ -223,7 +220,6 @@ h2. D
 | derived | 派生 | | |
 | define | 定义 | | |
 | definition | 定义 | | |
-
 | dispatch | 分派 | 派发 | |
 | dynamic languages | 动态语言 | | |
 | dynamic scope | 动态作用域 | | |
@@ -234,7 +230,7 @@ h2. D
 | declaring | 声明 | | |
 | declaration | 声明 | | |
 | declarative | 声明式 | 说明式 | |
-| declarativeness |  | | |
+| declarativeness | 可声明性 | | |
 | declarative programming | 说明式编程 | 声明式编程 | |
 | declarative knowledge | 说明式知识 | 声明式知识 | |
 | declaration forms | 声明形式 | | |
@@ -265,10 +261,10 @@ h2. E
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | expendable | 可扩展的 | | |
-| extent |  | | |
-| elaborate |  | | |
+| extent | 范围 | 程度 | |
+| elaborate | | | |
 | elucidating |  | | |
-| effect |  | | |
+| effect | 效果 | | |
 | escaped | 逃脱 | 溢出 | |
 | expression | 表达式 | | |
 | export | 导出 | 引出 | |
@@ -367,12 +363,12 @@ h2. G
 h2. H
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| helper |  | | |
+| helper | 辅助函数 | 辅助方法 | |
 | high-order | 高阶 | | |
 | higher-order function | 高阶函数 | | |
 | higher-order procedure | 高阶过程 | | |
 | hash tables | 哈希表 | 散列表 | |
-| hard-wire | 硬 | | |
+| hard-wire | | | |
 | hardware | 硬件 | | |
 | hard disk | 硬盘 | | |
 | header | 头部 | | |
@@ -393,7 +389,7 @@ h2. I
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | identity | 同一性 | | |
 | illusion | 错觉 | | |
-| instructive | | | |
+| instructive | 教学性的 | | |
 | interpolation | 插值 | | |
 | intermediate form | 过度形式 | | |
 | intersection | 交集 | | |
@@ -410,7 +406,7 @@ h2. I
 | imperative programming | 命令式编程 | | |
 | incremental testing | 增量测试 | | |
 | instances | 实例 | | |
-| instantiate |  | | |
+| instantiate | 实例化 | | |
 | implicit | 隐式 | | |
 | iterate | 迭代 | | |
 | iterative | 迭代的 | | |
@@ -466,7 +462,7 @@ h2. L
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | latitude |  | | |
-| leverage |  | | |
+| leverage | 杠杆 | | |
 | layout | 版型 | | |
 | linear recursion | 线性递归 | | |
 | linear iteration | 线性迭代 | | |
@@ -579,7 +575,7 @@ h2. N
 h2. O
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| on the fly |  | | |
+| on the fly | 运行中 | 执行时 | |
 | override | 覆写 | | |
 | object | 对象 | | |
 | object code | 目标代码 | | |
@@ -589,7 +585,7 @@ h2. O
 | online | 在线 | | |
 | operation | 操作 | | |
 | operator | 操作符 | | |
-| operand |  | | |
+| operand | 操作对象 | | |
 | option | 选项 | | |
 | optional | 可选的 | 选择性的 | |
 | optional argument | 选择性参数 | | |
@@ -602,9 +598,6 @@ h2. O
 | OS, Operating System | 操作系统 | | |
 | optimization | 优化 | | |
 | optimization of tail calls | 尾调用优化 | | |
-| on the fly |  | | |
-
-
 
 
 h2. P
@@ -654,7 +647,7 @@ h2. P
 | pass by value | 按值传递| 传值 | |
 | pattern | 模式 | | |
 | pattern match | 模式匹配 | | |
-| perform |  | | |
+| perform | 执行 | | |
 | performance | 性能 | | |
 | persistence | 持久性 | | |
 | physical | 物理的 | | |
@@ -683,10 +676,10 @@ h2. P
 | property | 属性 | | |
 | protocol | 协议 | | |
 | pseudo code | 伪码 | | |
-| preceding |  | | |
+| preceding | 前述的 | | |
 | precedence | 优先级 | | |
 | precedence list | 优先级 | | |
-| path |  | | |
+| path | 路径 | | |
 | pipe | 管道 | | |
 | polynomial | 多项式的 | | |
 | portable | 可移植性 | | |
@@ -694,15 +687,12 @@ h2. P
 | premature design | 过早设计 | | |
 | pseudocode | 伪码 | | |
 
-
-
-
 h2. Q
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | query | 查询 | | |
 | query language | 查询语言 | | |
-| qualified |  | | |
+| qualified | 修饰的 | 带前缀的 | |
 | qualifier | 修饰符 | | |
 | quality | 质量 | | |
 | queue | 队列 | | |
@@ -714,12 +704,11 @@ h2. R
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | rest parameter | 余留参数 | 剩馀参数 | |
 | row-major order | 列主序 | | |
-| Rake | | | |
 | request | 请求 | | |
 | read | 读取 | | |
 | read-macro | 读取宏 | | |
-| read-eval-print loop | 读取-求值-打印循环 | | |
 | REPL | 读取-求值-打印循环 | | |
+| read-eval-print loop | “读取——求值——打印“循环 | | |
 | recursion | 递归 | | |
 | recursive | 递归 | | |
 | recursive case | 递归情形 | | |
@@ -732,7 +721,7 @@ h2. R
 | raise | 引起 | | |
 | random number | 随机数 | | |
 | range | 范围 | 区间 | |
-| rank |  | | |
+| rank | （矩阵）秩 | 排名 | |
 | raw | 未经处理的 | | |
 | record | 记录 | | |
 | refactor | 重构 | | |
@@ -755,7 +744,6 @@ h2. R
 | return | 回车 | | |
 | rvalue | 右值 | | |
 | RAID, Redundant Array of Independent Disks | 冗余独立磁盘阵列 | | |
-| read-eval-print loop | “读取——求值——打印“循环 | | |
 | regular expression | 正则表达式 | | |
 | RISC, Reduced Instruction Set Computer | 精简指令系统计算机 | | |
 | run-length encoding | 游程编码 | | |
@@ -769,9 +757,9 @@ h2. S
 | slash | 斜线 | | |
 | semicolon | 分号 | | |
 | scaffold | 脚手架 | 鹰架 | |
-| shadowing |  | | |
+| shadowing | 隐蔽了 | | |
 | snake_case  | 蛇底式小写 | | |
-| SCREAMING_SNAKE_CASE |  | | |
+| SCREAMING_SNAKE_CASE | 尖叫式蛇底大写 | | |
 | simple vector | 简单向量 | | |
 | shortest path | 最短路径 | | |
 | scope | 作用域 | | |
@@ -826,7 +814,7 @@ h2. S
 | standard library | 标准函式库 | | |
 | status | 状态 | | |
 | stream | 流 | | |
-| subroutine |  | | |
+| subroutine | 子程序 | | |
 | subtype | 子类型 | | |
 | support | 支持 | | |
 | supertype | 超集 | | |
@@ -838,10 +826,10 @@ h2. S
 | square root | 平方根 | | |
 | scan | 扫描 | | |
 | scripting language | 脚本语言 | | |
-| s-expression | s-表达式 | | |
+| s-expression | s-表达式 | s 表达式 | |
 | socket | 套接字 | | |
-| spaghetti | 面条式代码 | | |
-| spaghetti stack | 意面式栈 | | |
+| spaghetti | 面条式代码 | 意面式代码 | |
+| spaghetti stack | 意面式栈 | 面条式栈 | |
 | spam | 垃圾邮件 | | |
 | spce | 规格 | | |
 | SSL, Secure Sockets Layer | 安全套接字层 | | |
@@ -849,7 +837,7 @@ h2. S
 | subset | 子集 | | |
 | system administrator | 系统管理员 | | |
 | system administrator disease | 系统管理员综合症 | | |
-| store |  | | |
+| store | 保存 | | |
 
 
 h2. T
@@ -858,7 +846,7 @@ h2. T
 | TAOCP | 《计算机程序设计艺术》| | |
 | timestamp | 时间戳 | | |
 | trailing space | 行尾空白 | | |
-| taxonomy | | | |
+| taxonomy | 分类法 | | |
 | trace | 追踪 | | |
 | type | 类型 | | |
 | type hierarchy | 类型层级 | | |
@@ -897,7 +885,7 @@ h2. T
 | throw | 抛出 | 丢掷 | 引发 |
 | token | 符号 | 语义单位 | 语元 |
 | transaction | 事务 | | |
-| transparent |  | | |
+| transparent | 透明的 | | |
 | traverse | 遍历 | | |
 | trigger | 触发 | | |
 | throwaway program | 一次性程序 | | |
@@ -916,7 +904,7 @@ h2. U
 | underflow | 下溢 | | |
 | unary | 一元的 | | |
 | unwinding |  | | |
-| unqualfied |  | | |
+| unqualfied | 未修饰的 | | |
 | user | 用户 | | |
 | UI, user interface | 用户界面 | | |
 | uptime | 运行时间 | | |
@@ -925,8 +913,8 @@ h2. U
 h2. V
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| validate |  | | |
-| validator |  | | |
+| validate | 验证 | | |
+| validator | 验证器 | | |
 | value constructor | 值构造器 | | |
 | variable | 变量 | | |
 | variable capture | 变量捕捉 | | |
@@ -937,13 +925,10 @@ h2. V
 | virtual function | 虚函数 | | |
 | virtual machine | 虚拟机 | | |
 | virtual memory | 虚内存 | | |
-| volatile |  | | |
+| volatile | 挥发 | | |
 | vowel | 元音 | | |
 | vaporware | 朦胧件 | | |
 | VC, Venture Capitalist | 风险投资商 | | |
-
-
-
 
 
 h2. W
