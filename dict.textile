@@ -18,6 +18,7 @@ h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | assoc-list, alist | 关联列表 | | |
+| a block of pointers | 一块指针 | | |
 | arithmetic | 算术 | | |
 | automatically infer | 自动推导 | | |
 | automatic memory management | 自动内存管理  | | |
@@ -36,12 +37,13 @@ h2. A
 | anaphoric | 指代 | | |
 | auxiliary | 辅助 | | |
 | activate | 激活 | | |
-| access | 访问 | | |
-| access function | 访问函数 | | |
+| access | 访问 | 存取 | |
+| access function | 访问函数 | 存取函数 | |
 | abstract | 抽象的 | | |
 | abstraction | 抽象 | | |
 | abstraction barrier | 抽象屏障 | 抽象阻碍 | |
-| abstract syntax tree | 抽象语法树 | | |
+| abstract syntax tree, AST | 抽象语法树 | | |
+| abstraction of function calls | 函数调用抽象 | | |
 | adapter | 适配器 | | |
 | address | 地址 | | |
 | algorithm | 算法 | | |
@@ -51,6 +53,7 @@ h2. A
 | applicative | 应用序 | | |
 | argument | 参数 | 自变量 | 实参 |
 | array | 数组 | | |
+| assemble |  | | |
 | assembly | 汇编 | | |
 | associated | 关联的 | | |
 | atomic | 原子的 | | |
@@ -66,6 +69,7 @@ h2. A
 h2. B
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| bignum | 大数 | | |
 | backtrace | 回溯 | | |
 | branch | 分支 | 跳转 | |
 | base case | 基本情形 | | |
@@ -88,6 +92,7 @@ h2. B
 | best viable function | 最佳可行函式 | 最佳可行函数 | |
 | binary search | 二分查找 | 二分搜索 | 二叉搜索 |
 | binary tree | 二叉树 | | |
+| binary search tree | 二叉搜索树 | | |
 | binary operator | 二元操作符 | | |
 | bit | 位 | 比特 | |
 | bit manipulation | 位操作 | | |
@@ -114,12 +119,17 @@ h2. B
 h2. C
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| coma |  | | |
-| Cucumber |  | | |
-| code |  | | |
+| column | 行 | 栏 | |
+| column-major order | 行主序 | | |
+| crystallize | 固化 | | |
+| corollary | 推论 | | |
+| clutter | 杂乱 | | |
+| comma | 逗号 | | |
+| Cucumber | （行为驱动测试框架）小黄瓜 | | |
+| code | 代码 | | |
 | command-line | 命令行  | | |
-| CLI | | | |
-| CamelCase | | | |
+| CLI, Command Line Interface | 命令行界面 | | |
+| CamelCase | 驼峰式大小写 | | |
 | constraint | 约束  | | |
 | constraint programming | 约束式编程 | | |
 | computation | 计算 | | |
@@ -131,7 +141,6 @@ h2. C
 | collection | 收集器 | | |
 | currying | 柯里化 | | |
 | composition | 组合 | 组合函数 | |
-| compile-time | 编译期 | | |
 | character | 字符 | | |
 | capture | 捕捉 | | |
 | closed world assumption | 封闭世界假定 | | |
@@ -158,8 +167,13 @@ h2. C
 | clone | 克隆 | | |
 | command line | 命令行 | | |
 | compatible | 兼容 | | |
+| compile | 编译 | | |
 | compiler | 编译器 | | |
+| compile inline | 内联编译 | | |
+| compilation parameter | 编译参数 | | |
+| compiled form | 编译后的形式 | | |
 | compile time | 编译期 | | |
+| compile-time | 编译期 | | |
 | component | 组件 | | |
 | computer | 计算机 | | |
 | concept | 概念 | | |
@@ -189,12 +203,15 @@ h2. C
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| dimensions | 维度 | | |
+| duplicate | 复本 | | |
 | delegation |  | | |
 | DARPA, Defense Advanced Research Projects Agency | 美国国防部高级研究计划局 | | |
 | dellocate | 释放 | | |
 | data-driven | | | |
 | dotted list | 点状列表 | | |
 | destructive | 破坏性的 | | |
+| destructive function | 破坏性函数 | | |
 | data | 数据 | | |
 | data structure | 数据结构 | | |
 | database | 数据库 | | |
@@ -207,10 +224,10 @@ h2. D
 | define | 定义 | | |
 | definition | 定义 | | |
 
-| dispatch | 分派 | | |
+| dispatch | 分派 | 派发 | |
 | dynamic languages | 动态语言 | | |
 | dynamic scope | 动态作用域 | | |
-| dynamic extent | 动态作用域 | | |
+| dynamic extent | 动态范围 | | |
 | dynamic type | 动态类型 | | |
 | depth-first | 深度优先 | | |
 | depth-first search | 深度优先搜索 | | |
@@ -220,6 +237,7 @@ h2. D
 | declarativeness |  | | |
 | declarative programming | 说明式编程 | 声明式编程 | |
 | declarative knowledge | 说明式知识 | 声明式知识 | |
+| declaration forms | 声明形式 | | |
 | dead lock | 死锁 | | |
 | debug | 调试 | | |
 | debugger | 调试器 | | |
@@ -246,6 +264,11 @@ h2. D
 h2. E
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| expendable | 可扩展的 | | |
+| extent |  | | |
+| elaborate |  | | |
+| elucidating |  | | |
+| effect |  | | |
 | escaped | 逃脱 | 溢出 | |
 | expression | 表达式 | | |
 | export | 导出 | 引出 | |
@@ -281,6 +304,7 @@ h2. E
 h2. F
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| fixnum | 定长数 | | |
 | form | 表单 | | |
 | floating point | 浮点数 | | |
 | floating-point notation | 浮点数表示法 | | |
@@ -298,6 +322,7 @@ h2. F
 | feature | 特色 | | |
 | field | 字段 | 栏位 | |
 | file | 文件 | | |
+| fill pointer | 填充指针 | | |
 | firmware | 固件 | | |
 | flag | 标记 | | |
 | flash | 闪存 | | |
@@ -317,18 +342,21 @@ h2. F
 h2. G
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| goto | 跳转 | | |
 | generic | 通用的 | 泛化的 | |
 | generic function | 通用函数 | | |
 | generic algorithm | 通用算法 | 泛型算法 | |
 | generic programming | 通用编程 | 泛型编程 | |
 | garbage | 垃圾 | | |
 | garbage collection | 垃圾回收 | | |
+| garbage collector | 垃圾回收器 | | |
 | generalized variables | 广义变量 | | |
 | generalized | 泛化 | | |
 | game | 游戏 | | |
 | generate | 生成 | | |
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
+| global declarations | 全局声明 | | |
 | GUI | 图形介面 | | |
 | Greatest Common Divisor | 最大公因数 | | |
 | garbage collection | 垃圾收集 | | |
@@ -344,8 +372,10 @@ h2. H
 | higher-order function | 高阶函数 | | |
 | higher-order procedure | 高阶过程 | | |
 | hash tables | 哈希表 | 散列表 | |
+| hard-wire | 硬 | | |
 | hardware | 硬件 | | |
 | hard disk | 硬盘 | | |
+| header | 头部 | | |
 | header file | 头文件 | | |
 | handle | 处理器 | 处理程序 | 句柄 |
 | heap | 堆 | | |
@@ -361,13 +391,16 @@ h2. H
 h2. I
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| indentation |  | | |
+| identity | 同一性 | | |
+| illusion | 错觉 | | |
+| instructive | | | |
 | interpolation | 插值 | | |
 | intermediate form | 过度形式 | | |
 | intersection | 交集 | | |
 | ill type | 类型不正确 | | |
-| indent | 缩排 | | |
-| indention | 缩排 | | |
+| indent | 缩排 | 缩进 | |
+| indention | 缩排 | 缩进 | |
+| indentation | 缩排 | 缩进 | |
 | infix | 中序 | | |
 | infer | 推导 | | |
 | infinite-precision | 无限精度 | | |
@@ -386,7 +419,9 @@ h2. I
 | identical | 一致 | | |
 | identifier | 标识符 | | |
 | implement | 实现 | | |
+| implementation | 实现 | | |
 | import | 导入 | | |
+| inner loop | 内层循环 | | |
 | infinite loop | 无限循环 | | |
 | infinite recursion | 无限递归 | | |
 | information | 信息 | | |
@@ -430,6 +465,8 @@ h2. K
 h2. L
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| latitude |  | | |
+| leverage |  | | |
 | layout | 版型 | | |
 | linear recursion | 线性递归 | | |
 | linear iteration | 线性迭代 | | |
@@ -441,10 +478,13 @@ h2. L
 | literal constant | 字面常量 | | |
 | literal representation | 字面量 | | |
 | lexical | 词法的 | | |
+| lexical analysis | 词法分析 | | |
 | lexical scope | 词法作用域 | | |
 | lexical closure | 词法闭包 | | |
 | local | 局部的 | 局域的 | |
+| local function | 局部函数 | 局域函数 | |
 | local variable | 局部变量 | 局域变量 | |
+| local declarations | 局部声明 | | |
 | locality | 局部性 | | |
 | laser | 激光 | | |
 | library | 库 | 函数库 | 函式库 |
@@ -477,6 +517,7 @@ h2. M
 | mapping functions | 映射函数 | | |
 | memory | 内存 | | |
 | memory leaks | 内存泄漏 | | |
+| memory allocation | 内存分配 | | |
 | memorizing | 记忆化 | | |
 | message | 消息 | | |
 | message-passing | 消息传递 | | |
@@ -538,6 +579,7 @@ h2. N
 h2. O
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| on the fly |  | | |
 | override | 覆写 | | |
 | object | 对象 | | |
 | object code | 目标代码 | | |
@@ -549,6 +591,8 @@ h2. O
 | operator | 操作符 | | |
 | operand |  | | |
 | option | 选项 | | |
+| optional | 可选的 | 选择性的 | |
+| optional argument | 选择性参数 | | |
 | ordinary | 常规的 | | |
 | overflow | 溢出 | | |
 | overhead | 额外开销 | | |
@@ -557,15 +601,18 @@ h2. O
 | open source | 开发源码 | | |
 | OS, Operating System | 操作系统 | | |
 | optimization | 优化 | | |
-| parallel computer | 并行计算机 | | |
-| Parkinson's Law | 帕金森法则 | | |
+| optimization of tail calls | 尾调用优化 | | |
+| on the fly |  | | |
+
 
 
 
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| param | | | |
+| prescribe | 规定 | | |
+| parallel computer | 并行计算机 | | |
+| Parkinson's Law | 帕金森法则 | | |
 | prototype | 原型 | | |
 | proper list | 正规列表 | | |
 | pushdown stack | 下推栈 | | |
@@ -597,6 +644,7 @@ h2. P
 | prompt | 提示符 | | |
 | primitive | 原语 | | |
 | package | 包 | | |
+| param | 参数 | | |
 | parameter | 参数 | 形参 | |
 | parent class | 父类 | | |
 | parentheses | 括号 | | |
@@ -606,6 +654,7 @@ h2. P
 | pass by value | 按值传递| 传值 | |
 | pattern | 模式 | | |
 | pattern match | 模式匹配 | | |
+| perform |  | | |
 | performance | 性能 | | |
 | persistence | 持久性 | | |
 | physical | 物理的 | | |
@@ -634,8 +683,10 @@ h2. P
 | property | 属性 | | |
 | protocol | 协议 | | |
 | pseudo code | 伪码 | | |
-| precedence |  | | |
-| path | 补丁 | | |
+| preceding |  | | |
+| precedence | 优先级 | | |
+| precedence list | 优先级 | | |
+| path |  | | |
 | pipe | 管道 | | |
 | polynomial | 多项式的 | | |
 | portable | 可移植性 | | |
@@ -661,6 +712,8 @@ h2. Q
 h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| rest parameter | 余留参数 | 剩馀参数 | |
+| row-major order | 列主序 | | |
 | Rake | | | |
 | request | 请求 | | |
 | read | 读取 | | |
@@ -711,7 +764,9 @@ h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | SICP | 《计算机程序的构造与解释》| | |
-| slash |  | | |
+| segment of instructions | 指令片段 | | |
+| stakeholder |  | | |
+| slash | 斜线 | | |
 | semicolon | 分号 | | |
 | scaffold | 脚手架 | 鹰架 | |
 | shadowing |  | | |
@@ -733,7 +788,7 @@ h2. S
 | strict | 严格 | | |
 | series | 串行 | 级数 | |
 | side-effects | 副作用 | | |
-| sketch | 草图 | | |
+| sketch | 草图 | 初步框架 | |
 | slot | 槽 | | |
 | squash | 碰撞 | | |
 | stack | 栈 | | |
@@ -744,7 +799,9 @@ h2. S
 | symbolic computation | 符号计算 | | |
 | special variable | 特殊变量 | | |
 | special form | 特殊形式 | | |
+| specialize | 特化 | | |
 | specialization | 特化 | | |
+| specialized array | 特化数组 | | |
 | semaphore | 信号量 | | |
 | save | 储存 | | |
 | scalar type | 标量 | | |
@@ -761,7 +818,7 @@ h2. S
 | signature | 签名 | | |
 | smart pointer | 智能指针 | | |
 | snapshot | 屏幕截图 | | |
-| specification | 规范 | | |
+| specification | 规格说明 | 规范 | |
 | splitter | 切分窗口 | | |
 | software | 软件 | | |
 | solution | 方案 | | |
@@ -773,6 +830,7 @@ h2. S
 | subtype | 子类型 | | |
 | support | 支持 | | |
 | supertype | 超集 | | |
+| superclass | 基类 | | |
 | suspend | 挂起 | | |
 | syntax | 语法 | | |
 | sharp-quote | 升引号 | | |
@@ -783,6 +841,7 @@ h2. S
 | s-expression | s-表达式 | | |
 | socket | 套接字 | | |
 | spaghetti | 面条式代码 | | |
+| spaghetti stack | 意面式栈 | | |
 | spam | 垃圾邮件 | | |
 | spce | 规格 | | |
 | SSL, Secure Sockets Layer | 安全套接字层 | | |
@@ -790,6 +849,7 @@ h2. S
 | subset | 子集 | | |
 | system administrator | 系统管理员 | | |
 | system administrator disease | 系统管理员综合症 | | |
+| store |  | | |
 
 
 h2. T
@@ -801,6 +861,8 @@ h2. T
 | taxonomy | | | |
 | trace | 追踪 | | |
 | type | 类型 | | |
+| type hierarchy | 类型层级 | | |
+| type name | 类型名 | | |
 | type signature | 类型签名 | | |
 | type variable | 类型变量 | | |
 | type declarations | 类型声明 | | |
@@ -833,7 +895,7 @@ h2. T
 | thread | 线程 | | |
 | tread safe | 多线程安全 | | |
 | throw | 抛出 | 丢掷 | 引发 |
-| token | 符号 | 语义单位 | |
+| token | 符号 | 语义单位 | 语元 |
 | transaction | 事务 | | |
 | transparent |  | | |
 | traverse | 遍历 | | |
@@ -887,11 +949,12 @@ h2. V
 h2. W
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| weight | 权值 | 权重 | |
 | well type | 类型正确 | | |
 | warning message | 警告信息 | | |
 | wildcard | 通配符 | | |
 | window | 窗口 | | |
-| word | 单词 | | |
+| word | 单词 | 字 | |
 | wrapper | 包装器 | 包装 | |
 | web server | 网络服务器 | | |
 | WYSIWYG, What You See Is What You Get | 所见即所得 | | |
