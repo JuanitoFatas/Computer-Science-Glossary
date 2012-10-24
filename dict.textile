@@ -50,7 +50,7 @@ h2. A
 | application | 应用 | 应用程序 | |
 | application framework | 应用框架 | | |
 | applicative | 应用序 | | |
-| argument | 参数 | 自变量 | 实参 |
+| argument | 参数 | 自变量 | 实际参数/实参 |
 | array | 数组 | | |
 | assemble | 组合 | | |
 | assembly | 汇编 | | |
