@@ -523,7 +523,7 @@ h2. M
 | maintain | 维护 | | |
 | mailing list | 邮件列表 | | |
 | manipulator | 操纵器 | | |
-| manifest typing | 显示类型 | | |
+| manifest typing | 显式类型 | | |
 | marshal | 列集 | | |
 | member | 成员 | | |
 | menu | 菜单 | | |
