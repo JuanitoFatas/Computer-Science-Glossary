@@ -333,7 +333,7 @@ h2. F
 | function object | 函数对象 | | |
 | functionality | 功能性 | | |
 | freeware | 自由软件 | | |
-| force | 强迫 | | |
+| force | 迫使 | | |
 
 
 h2. G
