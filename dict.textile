@@ -914,6 +914,7 @@ h2. U
 h2. V
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| variant | 变种 | | |
 | validate | 验证 | | |
 | validator | 验证器 | | |
 | value constructor | 值构造器 | | |
