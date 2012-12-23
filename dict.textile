@@ -50,7 +50,7 @@ h2. A
 | application | 应用 | 应用程序 | |
 | application framework | 应用框架 | | |
 | applicative | 应用序 | | |
-| argument | 参数 | 自变量 | 实参 |
+| argument | 参数 | 自变量 | 实际参数/实参 |
 | array | 数组 | | |
 | assemble | 组合 | | |
 | assembly | 汇编 | | |
@@ -339,6 +339,7 @@ h2. F
 | function object | 函数对象 | | |
 | functionality | 功能性 | | |
 | freeware | 自由软件 | | |
+| force | 迫使 | | |
 
 
 h2. G
@@ -529,7 +530,7 @@ h2. M
 | maintain | 维护 | | |
 | mailing list | 邮件列表 | | |
 | manipulator | 操纵器 | | |
-| manifest typing | 显示类型 | | |
+| manifest typing | 显式类型 | | |
 | marshal | 列集 | | |
 | member | 成员 | | |
 | menu | 菜单 | | |
@@ -921,6 +922,7 @@ h2. U
 h2. V
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| variant | 变种 | | |
 | validate | 验证 | | |
 | validator | 验证器 | | |
 | value constructor | 值构造器 | | |
