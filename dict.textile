@@ -264,6 +264,7 @@ h2. D
 h2. E
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| emulate | 仿真 | | |
 | expendable | 可扩展的 | | |
 | extent | 范围 | 程度 | |
 | elaborate | | | |
@@ -759,6 +760,7 @@ h2. R
 h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| simulate | 模拟 | | |
 | SICP | 《计算机程序的构造与解释》| | |
 | segment of instructions | 指令片段 | | |
 | stakeholder |  | | |
