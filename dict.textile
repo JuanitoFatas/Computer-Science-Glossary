@@ -182,6 +182,7 @@ h2. C
 | concept | 概念 | | |
 | concrete | 具体 | | |
 | concurrent | 并发 | | |
+| concurrency | 并发 | | |
 | configuration | 配置 | | |
 | connection | 连接 | | |
 | container | 容器 | | |
