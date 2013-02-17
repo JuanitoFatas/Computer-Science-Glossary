@@ -76,6 +76,7 @@ h2. B
 | backquote | 反引用 | | |
 | Bezier curves | 贝塞尔曲线 | | |
 | binding | 绑定 | | |
+| binding vector | 绑定向量 | | |
 | block-names | 代码块名字 | | |
 | body | 体 | 主体 | |
 | bottom-up design | 自底向上的设计 | | |
@@ -140,9 +141,10 @@ h2. C
 | chunk | 块 | | |
 | case | 分支 | | |
 | compound value | 复合数据 | 复合值 | |
-| collection | 收集器 | | |
+| collection | 收集器 | 复合类型 | |
 | currying | 柯里化 | | |
 | composition | 组合 | 组合函数 | |
+| composability | 可组合性 | | |
 | character | 字符 | | |
 | capture | 捕捉 | | |
 | closed world assumption | 封闭世界假定 | | |
@@ -205,6 +207,7 @@ h2. C
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| destructuring | 解构 | | |
 | dimensions | 维度 | | |
 | duplicate | 复本 | | |
 | delegation |  | | |
@@ -306,6 +309,8 @@ h2. E
 h2. F
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| forward references |  | | |
+| feasible | 可行的 | | |
 | fineo-grained | 细粒度 | | |
 | factorial | 阶乘 | | |
 | fixnum | 定长数 | | |
@@ -323,6 +328,7 @@ h2. F
 | function | 函数 | | |
 | functional arguments | 函数型参数 | | |
 | functional programming | 函数式编程 | | |
+| function literal | 函数字面常量 | | |
 | feature | 特色 | | |
 | field | 字段 | 栏位 | |
 | file | 文件 | | |
@@ -456,6 +462,8 @@ h2. I
 
 h2. J
 
+| judicious | 明智的 | | |
+
 h2. K
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
@@ -471,7 +479,7 @@ h2. L
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | latitude |  | | |
-| leverage | 杠杆 | | |
+| leverage | 杠杆 | (v.)利用 | |
 | layout | 版型 | | |
 | linear recursion | 线性递归 | | |
 | linear iteration | 线性迭代 | | |
@@ -612,6 +620,7 @@ h2. O
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| positional parameters | 位置参数 | | |
 | prescribe | 规定 | | |
 | parallel computer | 并行计算机 | | |
 | Parkinson's Law | 帕金森法则 | | |
@@ -645,6 +654,7 @@ h2. P
 | property list | 属性列表 | | |
 | prompt | 提示符 | | |
 | primitive | 原语 | | |
+| primitive type | 原生类型 | | |
 | package | 包 | | |
 | param | 参数 | | |
 | parameter | 参数 | 形参 | |
@@ -658,6 +668,7 @@ h2. P
 | pattern match | 模式匹配 | | |
 | perform | 执行 | | |
 | performance | 性能 | | |
+| performance-critical |  | | |
 | persistence | 持久性 | | |
 | physical | 物理的 | | |
 | pixel | 像素 | | |
@@ -699,6 +710,8 @@ h2. P
 h2. Q
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| quote | 引用 | | |
+| quoted form | 引用形式 | | |
 | query | 查询 | | |
 | query language | 查询语言 | | |
 | qualified | 修饰的 | 带前缀的 | |
@@ -761,6 +774,8 @@ h2. R
 h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| superfluous | 多余的 | | |
+| single-segment | 单段的 | | |
 | simulate | 模拟 | | |
 | SICP | 《计算机程序的构造与解释》| | |
 | segment of instructions | 指令片段 | | |
@@ -812,6 +827,7 @@ h2. S
 | semantics | 语义 | | |
 | sequence | 序列 | | |
 | sequential | 循序的 | 顺序的 | |
+| sequential collection literals |  | | |
 | server | 服务器 | | |
 | serial | 串行 | | |
 | serialization | 序列化 | | |
@@ -926,6 +942,7 @@ h2. V
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | variant | 变种 | | |
+| variadic input | 可变输入 | | |
 | validate | 验证 | | |
 | validator | 验证器 | | |
 | value constructor | 值构造器 | | |
