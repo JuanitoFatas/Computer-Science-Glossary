@@ -17,7 +17,7 @@ h2. 按字母索引
 h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| ad hoc | 关联列表 | 专设| |
+| ad hoc | 专设 | | |
 | assoc-list, alist | 关联列表 | | |
 | arithmetic | 算术 | | |
 | automatically infer | 自动推导 | | |
