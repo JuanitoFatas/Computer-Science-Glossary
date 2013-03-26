@@ -17,6 +17,7 @@ h2. 按字母索引
 h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| append | 拼接 | | |
 | ad hoc | 专设 | | |
 | assoc-list, alist | 关联列表 | | |
 | arithmetic | 算术 | | |
@@ -215,6 +216,7 @@ h2. D
 | DARPA, Defense Advanced Research Projects Agency | 美国国防部高级研究计划局 | | |
 | dellocate | 释放 | | |
 | dotted list | 点状列表 | | |
+| dotted-pair notation | 带点尾部表示法 | 带点尾部记法 | |
 | destructive | 破坏性的 | | |
 | destructive function | 破坏性函数 | | |
 | data | 数据 | | |
@@ -239,6 +241,7 @@ h2. D
 | declaring | 声明 | | |
 | declaration | 声明 | | |
 | declarative | 声明式 | 说明式 | |
+| declarative knowledge | 声明式知识 | 说明式知识 | |
 | declarativeness | 可声明性 | | |
 | declarative programming | 说明式编程 | 声明式编程 | |
 | declarative knowledge | 说明式知识 | 声明式知识 | |
@@ -320,9 +323,9 @@ h2. F
 | floating-point notation | 浮点数表示法 | | |
 | fold | 折叠 | | |
 | family | （类型的）系 | | |
-| first-class | 第一类的 | 第一级的 | |
+| first-class | 第一类的 | 第一级的 | 一等的 |
 | first-class object | 第一类的对象 | 第一级的对象 | 一等公民 |
-| first-class function | 第一级函数 | | |
+| first-class function | 第一级函数 | 第一类函数 | 一等函数 |
 | fixed-point | 不动点  | | |
 | formal relation | 形式关系 | | |
 | fractions | 派系 | | |
@@ -419,6 +422,7 @@ h2. I
 | integer | 整数 |  |  |
 | internal | 内部 | | |
 | interrupt | 中止 | 中断 | |
+| imperative | 命令式 | | |
 | imperative programming | 命令式编程 | | |
 | incremental testing | 增量测试 | | |
 | instances | 实例 | | |
@@ -734,8 +738,9 @@ h2. R
 | read-macro | 读取宏 | | |
 | REPL | 读取-求值-打印循环 | | |
 | read-eval-print loop | “读取——求值——打印“循环 | | |
+| Read-Evaluate-Print Loop | 读取-求值-打印循环 | | |
 | recursion | 递归 | | |
-| recursive | 递归 | | |
+| recursive | 递归的 | | |
 | recursive case | 递归情形 | | |
 | right associative | 右结合 | | |
 | rapid prototyping | 快速原型开发 | | |
