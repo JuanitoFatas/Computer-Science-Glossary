@@ -159,7 +159,7 @@ h2. C
 | conditional | 条件式 | | |
 | conditional variable | 条件变量 | | |
 | cons | 构造 | | |
-| cons cell | cons 核 | | |
+| cons cell | 构元 | cons 单元 | |
 | concatenation | 串接 | | |
 | cache | 缓存 | | |
 | call | 调用 | | |
