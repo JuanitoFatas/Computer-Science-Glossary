@@ -144,6 +144,8 @@ h2. C
 | case | 分支 | | |
 | compound value | 复合数据 | 复合值 | |
 | collection | 收集器 | 复合类型 | |
+| curvy | 卷曲的 | | |
+| curly | 括弧状的 | | |
 | curried | 柯里的 | | |
 | currying | 柯里化 | | |
 | composition | 组合 | 组合函数 | |
@@ -469,6 +471,7 @@ h2. I
 h2. J
 
 | judicious | 明智的 | | |
+| jagged | 锯齿状的 | | |
 
 h2. K
 
@@ -858,6 +861,7 @@ h2. S
 | superclass | 基类 | | |
 | suspend | 挂起 | | |
 | syntax | 语法 | | |
+| sharp | 犀利的 | | |
 | sharp-quote | 升引号 | | |
 | square | 平方 | | |
 | square root | 平方根 | | |
@@ -997,6 +1001,7 @@ h2. Z
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | zero-indexed | 零索引的 | | |
+| Z-expression | Z-表达式 | | |
 
 
 h2. 专业名词
