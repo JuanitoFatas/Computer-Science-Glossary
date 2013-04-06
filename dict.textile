@@ -144,6 +144,7 @@ h2. C
 | case | 分支 | | |
 | compound value | 复合数据 | 复合值 | |
 | collection | 收集器 | 复合类型 | |
+| curried | 柯里的 | | |
 | currying | 柯里化 | | |
 | composition | 组合 | 组合函数 | |
 | composability | 可组合性 | | |
@@ -638,6 +639,7 @@ h2. P
 | primitive recursive | 主递归 | | |
 | predicate | 判断式 | 谓词 | |
 | parallel | 并行 | | |
+| partial applied | 分步代入的 | | |
 | partial application | 部分应用 | | |
 | partial function application | 部分函数应用 | | |
 | particular ordering | 部分有序 | | |
