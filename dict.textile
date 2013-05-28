@@ -452,6 +452,7 @@ h2. I
 | initialization | 初始化 | | |
 | inner class | 内嵌类 | | |
 | integrate | 集成 | | |
+| IPC, Inter-Process Communication | 进程间通讯 | | |
 | interacts | 交互 | | |
 | interactive testing | 交互式测试 | | |
 | interactive language | 交互式语言 | | |
