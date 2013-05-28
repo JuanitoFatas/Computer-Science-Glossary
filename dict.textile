@@ -340,6 +340,7 @@ h2. F
 | feature | 特色 | | |
 | field | 字段 | 栏位 | |
 | file | 文件 | | |
+| file handle | 文件句柄 | | |
 | fill pointer | 填充指针 | | |
 | firmware | 固件 | | |
 | flag | 标记 | | |
