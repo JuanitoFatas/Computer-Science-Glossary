@@ -213,6 +213,7 @@ h2. C
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| DLL hell | DLL 地狱 | | |
 | destructuring | 解构 | | |
 | dimensions | 维度 | | |
 | duplicate | 复本 | | |
@@ -475,6 +476,7 @@ h2. J
 
 | judicious | 明智的 | | |
 | jagged | 锯齿状的 | | |
+| JCL, Job Control Language | 作业控制语言 | | |
 
 h2. K
 
@@ -578,6 +580,7 @@ h2. M
 | math envy | 对数学家的妒忌 | | |
 | metacircular | 元循环 | | |
 | Moore's Law | 摩尔定律 | | |
+| MVS | 多重虚拟存储 | | |
 
 
 
@@ -739,7 +742,8 @@ h2. Q
 h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| RPC, Remote Procedure Call | 远程过程调用 | | | |
+| registry creep | 注册表蠕变 | | |
+| RPC, Remote Procedure Call | 远程过程调用 | | |
 | race condition | 条件竞争 | 竞态条件 | |
 | rest parameter | 余留参数 | 剩馀参数 | |
 | row-major order | 列主序 | | |
@@ -791,6 +795,7 @@ h2. R
 h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| SNA, System Network Architecture | 系统网络体系 | | |
 | superfluous | 多余的 | | |
 | single-segment | 单段的 | | |
 | simulate | 模拟 | | |
