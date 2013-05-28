@@ -207,6 +207,7 @@ h2. C
 | crash | 崩溃 | | |
 | cycle | 周期 | | |
 | Common Lisp Object System | Common Lisp 对象系统 | | |
+| cooperative multitasking | 协作式多任务 | | |
 
 
 h2. D
@@ -375,7 +376,7 @@ h2. G
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
 | global declarations | 全局声明 | | |
-| GUI | 图形界面 | | |
+| GUI | 图形用户界面 | | |
 | Greatest Common Divisor | 最大公因数 | | |
 | garbage collection | 垃圾收集 | | |
 | glue program | 胶水程序 |
@@ -629,6 +630,7 @@ h2. O
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| peemptive multitasking | 抢先式多任务 | | |
 | pseudo instruction | 伪指令 | | |
 | positional parameters | 位置参数 | | |
 | prescribe | 规定 | | |
