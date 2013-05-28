@@ -375,7 +375,7 @@ h2. G
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
 | global declarations | 全局声明 | | |
-| GUI | 图形介面 | | |
+| GUI | 图形界面 | | |
 | Greatest Common Divisor | 最大公因数 | | |
 | garbage collection | 垃圾收集 | | |
 | glue program | 胶水程序 |
