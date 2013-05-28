@@ -213,6 +213,7 @@ h2. C
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| deficiency | 缺陷 | 不足 | |
 | DLL hell | DLL 地狱 | | |
 | destructuring | 解构 | | |
 | dimensions | 维度 | | |
@@ -565,7 +566,7 @@ h2. M
 | middleware | 中间件 | | |
 | modem | 调制解调器 | | |
 | module | 模块 | | |
-| modularity | 模块化 | | |
+| modularity | 模块性 | | |
 | multiple values | 多值 | | |
 | modifier | 修饰符 | | |
 | mouse | 鼠标 | | |
