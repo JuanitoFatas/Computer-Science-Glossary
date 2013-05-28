@@ -739,6 +739,7 @@ h2. Q
 h2. R
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| RPC, Remote Procedure Call | 远程过程调用 | | | |
 | race condition | 条件竞争 | 竞态条件 | |
 | rest parameter | 余留参数 | 剩馀参数 | |
 | row-major order | 列主序 | | |
