@@ -17,6 +17,7 @@ h2. 按字母索引
 h2. A
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| Amortized analysis | 平摊分析 | | |
 | append | 拼接 | | |
 | ad hoc | 专设 | | |
 | assoc-list, alist | 关联列表 | | |
