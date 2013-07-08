@@ -215,6 +215,7 @@ h2. C
 h2. D
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
+| designator | 指示符 | | |
 | deficiency | 缺陷 | 不足 | |
 | DLL hell | DLL 地狱 | | |
 | destructuring | 解构 | | |
