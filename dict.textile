@@ -25,6 +25,7 @@ h2. A
 | automatically infer | 自动推导 | | |
 | automatic memory management | 自动内存管理  | | |
 | algebraic date type | 代数数据类型 | | |
+| alias | 别名 | | |
 | alternative | 备选 | | |
 | atom | 原子 | | |
 | atomic values | 原子型值 | | |
