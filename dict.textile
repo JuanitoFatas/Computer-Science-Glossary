@@ -802,6 +802,7 @@ h2. S
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
 | SPOT, Single Point of Truth | 真理的单点性 | | |
+| sprite | 精灵图 | | |
 | SNA, System Network Architecture | 系统网络体系 | | |
 | superfluous | 多余的 | | |
 | single-segment | 单段的 | | |

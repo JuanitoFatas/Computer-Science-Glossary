@@ -1,0 +1,29 @@
+#! /usr/bin/env node
+
+var program = require('commander');
+var search = require('../lib/search.js');
+
+
+/**
+ * CLI
+ */
+
+program
+  .version(require('../package.json').version)
+  .usage('<command> [options]');
+
+program
+  .command('search <name>')
+  .description('Search for translations')
+  .action(search);
+
+// TODO fork -> add -> pull request work flow
+
+//program
+  //.command('create')
+  //.description('Create a new abbreviation')
+  //.action(create);
+
+program.parse(process.argv);
+
+if (!program.args[0]) program.help();
