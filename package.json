@@ -1,0 +1,32 @@
+{
+  "name": "tran",
+  "version": "0.0.1",
+  "description": "translation tool for Computer-Science-Glossary",
+  "main": "index.js",
+  "bin": {
+    "tran": "./bin/tran"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuanitoFatas/Computer-Science-Glossary.git"
+  },
+  "keywords": [
+    "glossary",
+    "dictionary",
+    "catlog"
+  ],
+  "author": "CatTail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanitoFatas/Computer-Science-Glossary/issues"
+  },
+  "dependencies": {
+    "github": "~0.1.12",
+    "fuse.js": "0.0.0",
+    "commander": "~2.1.0",
+    "colors": "~0.6.2"
+  }
+}
