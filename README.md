@@ -40,13 +40,56 @@ dict.textile 包含了 A-Z 所有的词汇。
 
 采用 Textile 语法，参考 [Textile Reference](http://redcloth.org/hobix.com/textile/) 或[试试 Textile](http://textile.thresholdstate.com/)。
 
-# 命令行工具
+## 命令行工具
 
-命令行工具使用 `javascript` 编写, 安装前请先安装依赖 [nodejs](http://nodejs.org/download/)
+命令行工具使用 [Node](http://nodejs.org/) 编写，使用前请先安装 [Node](http://nodejs.org/download/)，也可使用 [NVM](https://github.com/creationix/nvm) 来安装 Node。
 
-如果只想在该仓库局部使用, 在该仓库直接运行 `bin/tran`. 全局安装, 运行 `npm install -g tran`
+如果只想在该仓库局部使用：
 
-该工具当前仅支持翻译查询, 查看帮助直接输入 `tran`, 查询翻译 `tran search <name>`
+```bash
+$ git clone git@github.com:JuanitoFatas/Computer-Science-Glossary.git
+$ cd Computer-Science-Glossary
+$ npm install
+$ bin/tran
+```
+
+全局使用，运行：
+
+```bash
+$npm install -g tran
+```
+
+该工具当前仅支持翻译查询。查看帮助直接输入 `tran`：
+
+```
+$ bin/tran
+
+  Usage: tran <command> [options]
+
+  Commands:
+
+    search <name>          Search for translations
+
+  Options:
+
+    -h, --help     output usage information
+    -V, --version  output the version number
+```
+
+查询翻译 `tran search <name>` （模糊搜寻），如查找 `sicp`：
+
+```
+$ bin/tran search sicp
+Fuzzy match including:
+SICP
+  《计算机程序的构造与解释》
+simple vector
+  简单向量
+physical
+  物理的
+```
+
+此工具由 [CatTail](https://github.com/CatTail) 撰写。
 
 # 好书推荐
 
