@@ -40,6 +40,14 @@ dict.textile 包含了 A-Z 所有的词汇。
 
 采用 Textile 语法，参考 [Textile Reference](http://redcloth.org/hobix.com/textile/) 或[试试 Textile](http://textile.thresholdstate.com/)。
 
+# 命令行工具
+
+命令行工具使用 `javascript` 编写, 安装前请先安装依赖 [nodejs](http://nodejs.org/download/)
+
+如果只想在该仓库局部使用, 在该仓库直接运行 `bin/tran`. 全局安装, 运行 `npm install -g tran`
+
+该工具当前仅支持翻译查询, 查看帮助直接输入 `tran`, 查询翻译 `tran search <name>`
+
 # 好书推荐
 
 [![翻译研究](http://img1.douban.com/lpic/s4607692.jpg)](http://book.douban.com/subject/1234604/)
