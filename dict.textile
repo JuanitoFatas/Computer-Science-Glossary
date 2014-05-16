@@ -158,6 +158,7 @@ h2. C
 | compilation | 编译 | | |
 | consequent | 结果 | 推论 | |
 | continuations | 续延 | | |
+| coroutine | 协程 | | |
 | clarity | 清晰 | | |
 | complex | 复杂 | | |
 | complexity | 复杂度 | | |
@@ -381,6 +382,7 @@ h2. G
 | generalized | 泛化 | | |
 | game | 游戏 | | |
 | generate | 生成 | | |
+| generator | 生成器 | | |
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
 | global declarations | 全局声明 | | |
