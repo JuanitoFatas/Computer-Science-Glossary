@@ -117,7 +117,7 @@ h2. B
 | bandwidth | 带宽 | | |
 | Bayesian | 贝叶斯定理 | | |
 | bloatcode | 代码膨胀 | | |
-| Blub Paradox | Blue 困境 | | |
+| Blub Paradox | Blub 困境 | | |
 | buffer | 缓冲区 | | |
 | buffer overflow attack | 缓冲区溢出攻击 | | |
 
@@ -386,9 +386,8 @@ h2. G
 | Genrative Programming | 生产式编程 | | |
 | global | 全局的 | | |
 | global declarations | 全局声明 | | |
-| GUI | 图形用户界面 | | |
+| GUI, Graphical User Interface | 图形用户界面 | | |
 | Greatest Common Divisor | 最大公因数 | | |
-| garbage collection | 垃圾收集 | | |
 | glue program | 胶水程序 |
 | Greenspun's Tenth Rule | 格林斯潘第十定律 | | |
 
@@ -482,6 +481,7 @@ h2. I
 
 h2. J
 
+| *英文* | *译法 1* | 译法 2 | 译法 3 |
 | judicious | 明智的 | | |
 | jagged | 锯齿状的 | | |
 | JCL, Job Control Language | 作业控制语言 | | |
@@ -634,7 +634,7 @@ h2. O
 | overhead | 额外开销 | | |
 | overload | 重载 | | |
 | Occam's Razor | 奥卡姆剃刀原则 | | |
-| open source | 开发源码 | | |
+| open source | 开放源码 | | |
 | OS, Operating System | 操作系统 | | |
 | optimization | 优化 | | |
 | optimization of tail calls | 尾调用优化 | | |
@@ -892,7 +892,7 @@ h2. S
 | spaghetti | 面条式代码 | 意面式代码 | |
 | spaghetti stack | 意面式栈 | 面条式栈 | |
 | spam | 垃圾邮件 | | |
-| spce | 规格 | | |
+| spec | 规格 | | |
 | SSL, Secure Sockets Layer | 安全套接字层 | | |
 | state machine | 状态机 | | |
 | subset | 子集 | | |
@@ -942,7 +942,7 @@ h2. T
 | text | 文本 | | |
 | text file | 文本文件 | | |
 | thread | 线程 | | |
-| tread safe | 多线程安全 | | |
+| thread safe | 多线程安全 | | |
 | throw | 抛出 | 丢掷 | 引发 |
 | token | 符号 | 语义单位 | 语元 |
 | transaction | 事务 | | |
