@@ -461,7 +461,7 @@ h2. I
 | initialization | 初始化 | | |
 | inner class | 内嵌类 | | |
 | integrate | 集成 | | |
-| IPC, Inter-Process Communication | 进程间通讯 | | |
+| IPC, Inter-Process Communication | 进程间通信 | | |
 | interacts | 交互 | | |
 | interactive testing | 交互式测试 | | |
 | interactive language | 交互式语言 | | |
@@ -643,7 +643,7 @@ h2. O
 h2. P
 
 | *英文* | *译法 1* | 译法 2 | 译法 3 |
-| preemptive multitasking | 抢先式多任务 | | |
+| preemptive multitasking | 抢占式多任务 | | |
 | pseudo instruction | 伪指令 | | |
 | positional parameters | 位置参数 | | |
 | prescribe | 规定 | | |
