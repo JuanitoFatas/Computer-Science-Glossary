@@ -18,7 +18,7 @@ h2. A
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | a block of pointers                  | 一块指针           | 一组指针         |                  |
-| abbreviations                        | 缩略语             |                  |                  |
+| abbreviation                         | 缩略语             |                  |                  |
 | abstract                             | 抽象的             |                  |                  |
 | abstract syntax tree, AST            | 抽象语法树         |                  |                  |
 | abstraction                          | 抽象               |                  |                  |
@@ -26,41 +26,40 @@ h2. A
 | abstraction of function calls        | 函数调用抽象       |                  |                  |
 | access                               | 访问               | 存取             |                  |
 | access function                      | 访问函数           | 存取函数         |                  |
-| accumulators                         | 累积器             |                  |                  |
+| accumulator                          | 累加器             |                  |                  |
 | activate                             | 激活               |                  |                  |
 | ad hoc                               | 专设               |                  |                  |
 | adapter                              | 适配器             |                  |                  |
 | address                              | 地址               |                  |                  |
-| AI, Artificial Intelligence          | 人工智能           |                  |                  |
-| algebraic date type                  | 代数数据类型       |                  |                  |
+| algebraic data type                  | 代数数据类型       |                  |                  |
 | algorithm                            | 算法               |                  |                  |
 | alias                                | 别名               |                  |                  |
 | allocate                             | 分配               | 配置             |                  |
 | alternative                          | 备选               |                  |                  |
-| Amortized analysis                   | 平摊分析           |                  |                  |
+| amortized analysis                   | 平摊分析           |                  |                  |
 | anaphoric                            | 指代               |                  |                  |
 | annotation                           | 注解               |                  |                  |
 | anonymous function                   | 匿名函数           |                  |                  |
 | antecedent                           | 前提               | 前件             | 先决条件         |
-| API, Application Program Interface   | 应用程序编程接口   |                  |                  |
-| append                               | 拼接               |                  |                  |
+| append                               | 追加               | 拼接             |                  |
 | application                          | 应用               | 应用程序         |                  |
 | application framework                | 应用框架           |                  |                  |
+| application program interface, API   | 应用程序编程接口   |                  |                  |
+| application service provider, ASP    | 应用程序服务提供商 |                  |                  |
 | applicative                          | 应用序             |                  |                  |
 | argument                             | 参数               | 自变量           | 实际参数/实参    |
 | arithmetic                           | 算术               |                  |                  |
 | array                                | 数组               |                  |                  |
-| artificial intelligence              | 人工智能           |                  |                  |
-| ASP, Application Service Provider    | 应用程序服务提供商 |                  |                  |
+| artificial intelligence, AI          | 人工智能           |                  |                  |
 | assemble                             | 组合               |                  |                  |
 | assembly                             | 汇编               |                  |                  |
 | assignment                           | 赋值               |                  |                  |
 | assignment operator                  | 赋值操作符         |                  |                  |
-| assoc-list, alist                    | 关联列表           |                  |                  |
 | associated                           | 关联的             |                  |                  |
+| association list, alist              | 关联列表           |                  |                  |
 | atom                                 | 原子               |                  |                  |
 | atomic                               | 原子的             |                  |                  |
-| atomic values                        | 原子型值           |                  |                  |
+| atomic value                         | 原子型值           |                  |                  |
 | attribute                            | 属性               | 特性             |                  |
 | augmented                            | 扩充               |                  |                  |
 | automatic memory management          | 自动内存管理       |                  |                  |
@@ -78,9 +77,9 @@ h2. B
 | bandwidth                            | 带宽               |                  |                  |
 | base case                            | 基本情形           |                  |                  |
 | base class                           | 基类               |                  |                  |
-| Bayesian                             | 贝叶斯定理         |                  |                  |
+| Bayes' theorem                       | 贝叶斯定理         |                  |                  |
 | best viable function                 | 最佳可行函式       | 最佳可行函数     |                  |
-| Bezier curves                        | 贝塞尔曲线         |                  |                  |
+| Bezier curve                         | 贝塞尔曲线         |                  |                  |
 | bignum                               | 大数               |                  |                  |
 | binary operator                      | 二元操作符         |                  |                  |
 | binary search                        | 二分查找           | 二分搜索         | 二叉搜索         |
@@ -90,28 +89,26 @@ h2. B
 | binding vector                       | 绑定向量           |                  |                  |
 | bit                                  | 位                 | 比特             |                  |
 | bit manipulation                     | 位操作             |                  |                  |
-| black-box abstraction                | 黑箱抽象           |                  |                  |
-| bloatcode                            | 代码膨胀           |                  |                  |
+| black box abstraction                | 黑箱抽象           |                  |                  |
 | block                                | 块                 | 区块             |                  |
 | block structure                      | 块结构             | 区块结构         |                  |
-| block-names                          | 代码块名字         |                  |                  |
-| blub                                 |                    |                  |                  |
-| Blub Paradox                         | Blub 困境          |                  |                  |
+| block name                           | 代码块名字         |                  |                  |
+| Blub paradox                         | Blub 困境          |                  |                  |
 | body                                 | 体                 | 主体             |                  |
 | boilerplate                          | 公式化             | 样板             |                  |
-| book-keeping                         | 簿记               |                  |                  |
+| bookkeeping                          | 簿记               |                  |                  |
 | boolean                              | 布尔               |                  |                  |
 | border                               | 边框               |                  |                  |
 | bottom-up design                     | 自底向上的设计     |                  |                  |
 | bottom-up programming                | 自底向上编程       |                  |                  |
-| bound                                | 限制               |                  |                  |
-| bounds-checking                      | 边界检查           |                  |                  |
+| bound                                | 边界               |                  |                  |
+| bounds checking                      | 边界检查           |                  |                  |
 | box notation                         | 箱子表示法         |                  |                  |
 | brace                                | 花括弧             | 花括号           |                  |
 | bracket                              | 方括弧             | 方括号           |                  |
 | branch                               | 分支               | 跳转             |                  |
 | breadth-first                        | 广度优先           |                  |                  |
-| breadth-first search                 | 广度优先搜索       |                  |                  |
+| breadth-first search, BFS            | 广度优先搜索       |                  |                  |
 | breakpoint                           | 断点               |                  |                  |
 | brevity                              | 简洁               |                  |                  |
 | buffer                               | 缓冲区             |                  |                  |
@@ -120,7 +117,7 @@ h2. B
 | building                             | 创建               |                  |                  |
 | built-in                             | 内置               |                  |                  |
 | byte                                 | 字节               |                  |                  |
-| byte code                            | 字节码             |                  |                  |
+| bytecode                             | 字节码             |                  |                  |
 
 
 h2. C
@@ -133,7 +130,6 @@ h2. C
 | candidate function                   | 候选函数           |                  |                  |
 | capture                              | 捕捉               |                  |                  |
 | case                                 | 分支               |                  |                  |
-| CGI, Common Gateway Interface        | 通用网关接口       |                  |                  |
 | character                            | 字符               |                  |                  |
 | checksum                             | 校验和             |                  |                  |
 | child class                          | 子类               |                  |                  |
@@ -144,7 +140,6 @@ h2. C
 | class                                | 类                 | 类别             |                  |
 | class declaration                    | 类声明             |                  |                  |
 | class library                        | 类库               |                  |                  |
-| CLI, Command Line Interface          | 命令行界面         |                  |                  |
 | client                               | 客户               | 客户端           |                  |
 | clipboard                            | 剪贴板             |                  |                  |
 | clone                                | 克隆               |                  |                  |
@@ -152,20 +147,21 @@ h2. C
 | closure                              | 闭包               |                  |                  |
 | clutter                              | 杂乱               |                  |                  |
 | code                                 | 代码               |                  |                  |
+| code bloat                           | 代码膨胀           |                  |                  |
 | collection                           | 收集器             | 复合类型         |                  |
 | column                               | 行                 | 栏               |                  |
 | column-major order                   | 行主序             |                  |                  |
 | comma                                | 逗号               |                  |                  |
-| command line                         | 命令行             |                  |                  |
 | command-line                         | 命令行             |                  |                  |
-| Common Lisp Object System            |Common Lisp 对象系统|                  |                  |
+| command-line interface, CLI          | 命令行界面         |                  |                  |
+| Common Lisp Object System, CLOS      |Common Lisp 对象系统|                  |                  |
+| Common Gateway Interface, CGI        | 通用网关接口       |                  |                  |
 | compatible                           | 兼容               |                  |                  |
 | compilation                          | 编译               |                  |                  |
 | compilation parameter                | 编译参数           |                  |                  |
 | compile                              | 编译               |                  |                  |
 | compile inline                       | 内联编译           |                  |                  |
 | compile time                         | 编译期             |                  |                  |
-| compile-time                         | 编译期             |                  |                  |
 | compiled form                        | 编译后的形式       |                  |                  |
 | compiler                             | 编译器             |                  |                  |
 | complex                              | 复杂               |                  |                  |
@@ -188,7 +184,7 @@ h2. C
 | configuration                        | 配置               |                  |                  |
 | connection                           | 连接               |                  |                  |
 | cons                                 | 构造               |                  |                  |
-| cons cell                            | 构元               | cons 单元   |                  |
+| cons cell                            | 构元               | cons 单元        |                  |
 | consequent                           | 结果               | 推论             |                  |
 | consistent                           | 一致性             |                  |                  |
 | constant                             | 常量               |                  |                  |
@@ -197,7 +193,8 @@ h2. C
 | container                            | 容器               |                  |                  |
 | content-based filtering              | 基于内容的过滤     |                  |                  |
 | context                              | 上下文             | 语境             | 环境             |
-| continuations                        | 续延               |                  |                  |
+| continuation                         | 延续性             |                  |                  |
+| continuous integration, CI           | 持续集成           |                  |                  |
 | control                              | 控件               |                  |                  |
 | cooperative multitasking             | 协作式多任务       |                  |                  |
 | copy                                 | 拷贝               |                  |                  |
@@ -207,7 +204,6 @@ h2. C
 | crash                                | 崩溃               |                  |                  |
 | create                               | 创建               |                  |                  |
 | crystallize                          | 固化               |                  |                  |
-| Cucumber                             | （行为驱动测试框架）小黄瓜 |                  |                  |
 | curly                                | 括弧状的           |                  |                  |
 | curried                              | 柯里的             |                  |                  |
 | currying                             | 柯里化             |                  |                  |
@@ -220,24 +216,23 @@ h2. D
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | dangling pointer                     | 迷途指针           | 野指针           |                  |
-| DARPA, Defense Advanced Research Projects Agency | 美国国防部高级研究计划局 |                  |                  |
+| Defense Advanced Research Projects Agency, DARPA | 美国国防部高级研究计划局| |                  |
 | data                                 | 数据               |                  |                  |
 | data structure                       | 数据结构           |                  |                  |
 | data type                            | 数据类型           |                  |                  |
 | data-driven                          | 数据驱动           |                  |                  |
 | database                             | 数据库             |                  |                  |
-| database schema                      | 数据库纲目         |                  |                  |
+| database schema                      | 数据库模式         |                  |                  |
 | datagram                             | 数据报文           |                  |                  |
 | dead lock                            | 死锁               |                  |                  |
 | debug                                | 调试               |                  |                  |
 | debugger                             | 调试器             |                  |                  |
-| debugging                            | 排错               |                  |                  |
+| debugging                            | 调试               |                  |                  |
 | declaration                          | 声明               |                  |                  |
 | declaration forms                    | 声明形式           |                  |                  |
 | declarative                          | 声明式             | 说明式           |                  |
 | declarative knowledge                | 声明式知识         | 说明式知识       |                  |
-| declarative knowledge                | 说明式知识         | 声明式知识       |                  |
-| declarative programming              | 说明式编程         | 声明式编程       |                  |
+| declarative programming              | 声明式编程         | 说明式编程       |                  |
 | declarativeness                      | 可声明性           |                  |                  |
 | declaring                            | 声明               |                  |                  |
 | deconstruction                       | 解构               |                  |                  |
@@ -253,7 +248,7 @@ h2. D
 | demarshal                            | 散集               |                  |                  |
 | deprecated                           | 废弃               |                  |                  |
 | depth-first                          | 深度优先           |                  |                  |
-| depth-first search                   | 深度优先搜索       |                  |                  |
+| depth-first search, BFS              | 深度优先搜索       |                  |                  |
 | derived                              | 派生               |                  |                  |
 | derived class                        | 派生类             |                  |                  |
 | design pattern                       | 设计模式           |                  |                  |
@@ -303,6 +298,7 @@ h2. E
 | error message                        | 错误信息           |                  |                  |
 | error-checking                       | 错误检查           |                  |                  |
 | escaped                              | 逃脱               | 溢出             |                  |
+| escape character                     | 转义字符           |                  |                  |
 | evaluate                             | 求值               | 评估             |                  |
 | evaluation                           | 求值               |                  |                  |
 | event                                | 事件               |                  |                  |
@@ -320,7 +316,7 @@ h2. E
 | extensibility                        | 可扩展性           |                  |                  |
 | extent                               | 范围               | 程度             |                  |
 | external representation              | 外部表示法         |                  |                  |
-| Extreme Programming                  | 极限编程           |                  |                  |
+| extreme programming                  | 极限编程           |                  |                  |
 
 
 h2. F
@@ -340,11 +336,11 @@ h2. F
 | first-class function                 | 第一级函数         | 第一类函数       | 一等函数         |
 | first-class object                   | 第一类的对象       | 第一级的对象     | 一等公民         |
 | fixed-point                          | 不动点             |                  |                  |
-| fixnum                               | 定长数             |                  |                  |
+| fixnum                               | 定长数             | 定点数           |                  |
 | flag                                 | 标记               |                  |                  |
 | flash                                | 闪存               |                  |                  |
 | flexibility                          | 灵活性             |                  |                  |
-| floating point                       | 浮点数             |                  |                  |
+| floating-point                       | 浮点数             |                  |                  |
 | floating-point notation              | 浮点数表示法       |                  |                  |
 | flush                                | 刷新               |                  |                  |
 | fold                                 | 折叠               |                  |                  |
@@ -376,21 +372,21 @@ h2. G
 | garbage collection                   | 垃圾回收           |                  |                  |
 | garbage collector                    | 垃圾回收器         |                  |                  |
 | generalized                          | 泛化               |                  |                  |
-| generalized variables                | 广义变量           |                  |                  |
+| generalized variable                 | 广义变量           |                  |                  |
 | generate                             | 生成               |                  |                  |
 | generator                            | 生成器             |                  |                  |
 | generic                              | 通用的             | 泛化的           |                  |
 | generic algorithm                    | 通用算法           | 泛型算法         |                  |
 | generic function                     | 通用函数           |                  |                  |
 | generic programming                  | 通用编程           | 泛型编程         |                  |
-| Genrative Programming                | 生产式编程         |                  |                  |
+| genrative programming                | 生产式编程         |                  |                  |
 | global                               | 全局的             |                  |                  |
-| global declarations                  | 全局声明           |                  |                  |
+| global declaration                   | 全局声明           |                  |                  |
 | glue program                         | 胶水程序           |                  |                  |
 | goto                                 | 跳转               |                  |                  |
-| Greatest Common Divisor              | 最大公因数         |                  |                  |
-| Greenspun's Tenth Rule               | 格林斯潘第十定律   |                  |                  |
-| GUI, Graphical User Interface        | 图形用户界面       |                  |                  |
+| graphical user interface, GUI        | 图形用户界面       |                  |                  |
+| greatest common divisor              | 最大公因数         |                  |                  |
+| Greenspun's tenth rule               | 格林斯潘第十定律   |                  |                  |
 
 
 h2. H
@@ -411,9 +407,9 @@ h2. H
 | high-order                           | 高阶               |                  |                  |
 | higher-order function                | 高阶函数           |                  |                  |
 | higher-order procedure               | 高阶过程           |                  |                  |
-| HTML, HyperText Markup Language      | 超文本标记语言     |                  |                  |
-| HTTP, HyperText Transfer Protocol    | 超文本传输协议     |                  |                  |
 | hyperlink                            | 超链接             |                  |                  |
+| HyperText Markup Language, HTML      | 超文本标记语言     |                  |                  |
+| HyperText Transfer Protocol, HTTP    | 超文本传输协议     |                  |                  |
 
 
 h2. I
@@ -433,14 +429,15 @@ h2. I
 | incremental testing                  | 增量测试           |                  |                  |
 | indent                               | 缩排               | 缩进             |                  |
 | indentation                          | 缩排               | 缩进             |                  |
-| indented                             | 缩进               |                  |                  |
+| indented                             | 缩排               | 缩进             |                  |
 | indention                            | 缩排               | 缩进             |                  |
 | infer                                | 推导               |                  |                  |
 | infinite loop                        | 无限循环           |                  |                  |
 | infinite recursion                   | 无限递归           |                  |                  |
-| infinite-precision                   | 无限精度           |                  |                  |
+| infinite precision                   | 无限精度           |                  |                  |
 | infix                                | 中序               |                  |                  |
 | information                          | 信息               |                  |                  |
+| information technology, IT           | 信息技术           |                  |                  |
 | inheritance                          | 继承               |                  |                  |
 | initialization                       | 初始化             |                  |                  |
 | initialize                           | 初始化             |                  |                  |
@@ -460,7 +457,7 @@ h2. I
 | interactive testing                  | 交互式测试         |                  |                  |
 | interacts                            | 交互               |                  |                  |
 | interface                            | 接口               |                  |                  |
-| intermediate form                    | 过度形式           |                  |                  |
+| intermediate form                    | 过渡形式           | 中间形式         |                  |
 | internal                             | 内部               |                  |                  |
 | internet                             | 互联网             | 因特网           |                  |
 | interpolation                        | 插值               |                  |                  |
@@ -468,10 +465,9 @@ h2. I
 | interpreter                          | 解释器             |                  |                  |
 | interrupt                            | 中止               | 中断             |                  |
 | intersection                         | 交集               |                  |                  |
+| inter-process communication, IPC     | 进程间通信         |                  |                  |
 | invariants                           | 约束条件           |                  |                  |
 | invoke                               | 调用               |                  |                  |
-| IPC, Inter-Process Communication     | 进程间通信         |                  |                  |
-| IT, information Technology           | 信息技术           |                  |                  |
 | item                                 | 项                 |                  |                  |
 | iterate                              | 迭代               |                  |                  |
 | iteration                            | 迭代的             |                  |                  |
@@ -483,7 +479,7 @@ h2. J
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | jagged                               | 锯齿状的           |                  |                  |
-| JCL, Job Control Language            | 作业控制语言       |                  |                  |
+| job control language, JCL            | 作业控制语言       |                  |                  |
 | judicious                            | 明智的             |                  |                  |
 
 
@@ -508,12 +504,12 @@ h2. L
 | lazy                                 | 惰性               |                  |                  |
 | lazy evaluation                      | 惰性求值           |                  |                  |
 | legacy software                      | 历史遗留软件       |                  |                  |
-| leverage                             | 杠杆               | (v.)利用         |                  |
+| leverage                             | 杠杆               | (动词)利用       |                  |
 | lexical                              | 词法的             |                  |                  |
 | lexical analysis                     | 词法分析           |                  |                  |
 | lexical closure                      | 词法闭包           |                  |                  |
 | lexical scope                        | 词法作用域         |                  |                  |
-| LFSP, Language For Smart People      | 聪明人的语言       |                  |                  |
+| Language For Smart People, LFSP      | 聪明人的语言       |                  |                  |
 | library                              | 库                 | 函数库           | 函式库           |
 | lifetime                             | 生命期             |                  |                  |
 | linear iteration                     | 线性迭代           |                  |                  |
@@ -550,7 +546,6 @@ h2. M
 | manifest typing                      | 显式类型           |                  |                  |
 | manipulator                          | 操纵器             |                  |                  |
 | mapping                              | 映射               |                  |                  |
-| mapping                              | 映射               |                  |                  |
 | mapping functions                    | 映射函数           |                  |                  |
 | marshal                              | 列集               |                  |                  |
 | math envy                            | 对数学家的妒忌     |                  |                  |
@@ -565,10 +560,8 @@ h2. M
 | meta-                                | 元-                |                  |                  |
 | meta-programming                     | 元编程             |                  |                  |
 | metacircular                         | 元循环             |                  |                  |
-| metaprogramming                      | 元编程             |                  |                  |
 | method                               | 方法               |                  |                  |
 | method combination                   | 方法组合           | 方法组合机制     |                  |
-| methods                              | 方法               |                  |                  |
 | micro                                | 微                 |                  |                  |
 | middleware                           | 中间件             |                  |                  |
 | migration                            | （数据库）迁移     |                  |                  |
@@ -583,13 +576,13 @@ h2. M
 | monad                                | 单子               |                  |                  |
 | monkey patch                         | 猴子补丁           |                  |                  |
 | monomorphic type language            | 单型语言           |                  |                  |
-| Moore's Law                          | 摩尔定律           |                  |                  |
+| Moore's law                          | 摩尔定律           |                  |                  |
 | mouse                                | 鼠标               |                  |                  |
 | multi-task                           | 多任务             |                  |                  |
 | multiple values                      | 多值               |                  |                  |
 | mutable                              | 可变的             |                  |                  |
 | mutex                                | 互斥锁             |                  |                  |
-| MVS                                  | 多重虚拟存储       |                  |                  |
+| Multiple Virtual Storage, MVS        | 多重虚拟存储       |                  |                  |
 
 
 h2. N
@@ -604,7 +597,7 @@ h2. N
 | nested class                         | 嵌套类             |                  |                  |
 | network                              | 网络               |                  |                  |
 | newline                              | 换行               | 新行             |                  |
-| Non-deterministic choice             | 非确定性选择       |                  |                  |
+| non-deterministic choice             | 非确定性选择       |                  |                  |
 | non-strict                           | 非严格             |                  |                  |
 | non-strict evaluation                | 非严格求值         |                  |                  |
 | nondeclarative                       |                    |                  |                  |
@@ -619,11 +612,12 @@ h2. O
 | object code                          | 目标代码           |                  |                  |
 | object-oriented                      | 面向对象           |                  |                  |
 | object-oriented programming          | 面向对象编程       |                  |                  |
-| Occam's Razor                        | 奥卡姆剃刀原则     |                  |                  |
+| Occam's razor                        | 奥卡姆剃刀原则     |                  |                  |
 | on the fly                           | 运行中             | 执行时           |                  |
 | online                               | 在线               |                  |                  |
 | open source                          | 开放源码           |                  |                  |
 | operand                              | 操作对象           |                  |                  |
+| operating system, OS                 | 操作系统           |                  |                  |
 | operation                            | 操作               |                  |                  |
 | operator                             | 操作符             |                  |                  |
 | optimization                         | 优化               |                  |                  |
@@ -633,7 +627,6 @@ h2. O
 | optional argument                    | 选择性参数         |                  |                  |
 | ordinary                             | 常规的             |                  |                  |
 | orthogonality                        | 正交性             |                  |                  |
-| OS, Operating System                 | 操作系统           |                  |                  |
 | overflow                             | 溢出               |                  |                  |
 | overhead                             | 额外开销           |                  |                  |
 | overload                             | 重载               |                  |                  |
@@ -650,14 +643,14 @@ h2. P
 | parallel                             | 并行               |                  |                  |
 | parallel computer                    | 并行计算机         |                  |                  |
 | param                                | 参数               |                  |                  |
-| parameter                            | 参数               | 形参             |                  |
+| parameter                            | 参数               | 形式参数/形参    |                  |
 | paren-matching                       | 括号匹配           |                  |                  |
 | parent class                         | 父类               |                  |                  |
 | parentheses                          | 括号               |                  |                  |
-| Parkinson's Law                      | 帕金森法则         |                  |                  |
+| Parkinson's law                      | 帕金森法则         |                  |                  |
 | parse                                | 解析               |                  |                  |
+| parse tree                           | 解析树             | 分析树           |                  |
 | parser                               | 解析器             |                  |                  |
-| parser tree                          | 解释树             |                  |                  |
 | partial application                  | 部分应用           |                  |                  |
 | partial applied                      | 分步代入的         |                  |                  |
 | partial function application         | 部分函数应用       |                  |                  |
@@ -681,19 +674,18 @@ h2. P
 | platform                             | 平台               |                  |                  |
 | pointer                              | 指针               |                  |                  |
 | pointer arithmetic                   | 指针运算           |                  |                  |
-| pointers                             | 指针               |                  |                  |
 | poll                                 | 轮询               |                  |                  |
 | polymorphic                          | 多态               |                  |                  |
 | polymorphism                         | 多态               |                  |                  |
 | polynomial                           | 多项式的           |                  |                  |
-| pools                                | 池                 |                  |                  |
+| pool                                 | 池                 |                  |                  |
 | port                                 | 端口               |                  |                  |
 | portable                             | 可移植性           |                  |                  |
 | portal                               | 门户               |                  |                  |
 | positional parameters                | 位置参数           |                  |                  |
 | postfix                              | 后序               |                  |                  |
 | precedence                           | 优先级             |                  |                  |
-| precedence list                      | 优先级             |                  |                  |
+| precedence list                      | 优先级列表         |                  |                  |
 | preceding                            | 前述的             |                  |                  |
 | predicate                            | 判断式             | 谓词             |                  |
 | preemptive multitasking              | 抢占式多任务       |                  |                  |
@@ -729,7 +721,6 @@ h2. P
 | prototype                            | 原型               |                  |                  |
 | pseudo code                          | 伪码               |                  |                  |
 | pseudo instruction                   | 伪指令             |                  |                  |
-| pseudocode                           | 伪码               |                  |                  |
 | purely functional language           | 纯函数式语言       |                  |                  |
 | pushdown stack                       | 下推栈             |                  |                  |
 
@@ -737,10 +728,10 @@ h2. P
 h2. Q
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
-| QA, Quality Assurance                | 质量保证           |                  |                  |
 | qualified                            | 修饰的             | 带前缀的         |                  |
 | qualifier                            | 修饰符             |                  |                  |
 | quality                              | 质量               |                  |                  |
+| quality assurance, QA                | 质量保证           |                  |                  |
 | query                                | 查询               |                  |                  |
 | query language                       | 查询语言           |                  |                  |
 | queue                                | 队列               |                  |                  |
@@ -753,7 +744,7 @@ h2. R
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
 | race condition                       | 条件竞争           | 竞态条件         |                  |
 | radian                               | 弧度               |                  |                  |
-| RAID, Redundant Array of Independent Disks | 冗余独立磁盘阵列|               |                  |
+| Redundant Array of Independent Disks, RAID | 冗余独立磁盘阵列|               |                  |
 | raise                                | 引起               |                  |                  |
 | random number                        | 随机数             |                  |                  |
 | range                                | 范围               | 区间             |                  |
@@ -762,8 +753,7 @@ h2. R
 | rational database                    | 关系数据库         |                  |                  |
 | raw                                  | 未经处理的         |                  |                  |
 | read                                 | 读取               |                  |                  |
-| read-eval-print loop                 | “读取——求值——打印“循环|               |                  |
-| Read-Evaluate-Print Loop             | 读取-求值-打印循环 |                  |                  |
+| read-evaluate-print loop, REPL       | 读取-求值-打印循环 |                  |                  |
 | read-macro                           | 读取宏             |                  |                  |
 | record                               | 记录               |                  |                  |
 | recursion                            | 递归               |                  |                  |
@@ -778,24 +768,22 @@ h2. R
 | register                             | 寄存器             |                  |                  |
 | registry creep                       | 注册表蠕变         |                  |                  |
 | regular expression                   | 正则表达式         |                  |                  |
-| REPL                                 | 读取-求值-打印循环 |                  |                  |
 | represent                            | 表现               |                  |                  |
 | request                              | 请求               |                  |                  |
 | resolution                           | 解析度             |                  |                  |
 | resolve                              | 解析               |                  |                  |
-| rest parameter                       | 余留参数           | 剩馀参数         |                  |
-| return                               | 回车               |                  |                  |
-| return                               | 返回               |                  |                  |
+| rest parameter                       | 剩余参数           |                  |                  |
+| return                               | 返回               | 回车             |                  |
 | return value                         | 返回值             |                  |                  |
 | reuse of software                    | 代码重用           |                  |                  |
 | right associative                    | 右结合             |                  |                  |
-| RISC, Reduced Instruction Set Computer | 精简指令系统计算机|                 |                  |
+| Reduced Instruction Set Computer, RISC | 精简指令系统计算机|                 |                  |
 | robust                               | 健壮               |                  |                  |
-| robustness                           | 健壮性             |                  |                  |
+| robustness                           | 健壮性             | 鲁棒性           |                  |
 | routine                              | 例程               |                  |                  |
 | routing                              | 路由               |                  |                  |
 | row-major order                      | 列主序             |                  |                  |
-| RPC, Remote Procedure Call           | 远程过程调用       |                  |                  |
+| remote procedure call, RPC           | 远程过程调用       |                  |                  |
 | run-length encoding                  | 游程编码           |                  |                  |
 | run-time typing                      | 运行期类型         |                  |                  |
 | runtime                              | 运行期             |                  |                  |
@@ -805,8 +793,9 @@ h2. R
 h2. S
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
-| s-expression                         | s-表达式           | s 表达式         |                  |
+| S-expression                         | S-表达式           |                  |                  |
 | save                                 | 储存               |                  |                  |
+| Secure Sockets Layer, SSL            | 安全套接字层       |                  |                  |
 | scaffold                             | 脚手架             | 鹰架             |                  |
 | scalar type                          | 标量               |                  |                  |
 | scan                                 | 扫描               |                  |                  |
@@ -833,16 +822,16 @@ h2. S
 | sharp-quote                          | 升引号             |                  |                  |
 | shortest path                        | 最短路径           |                  |                  |
 | SICP                                 | 《计算机程序的构造与解释》|           |                  |
-| side-effects                         | 副作用             |                  |                  |
+| side effect                          | 副作用             |                  |                  |
 | signature                            | 签名               |                  |                  |
 | simple vector                        | 简单向量           |                  |                  |
 | simulate                             | 模拟               |                  |                  |
+| Single Point of Truth, SPOT          | 真理的单点性       |                  |                  |
 | single-segment                       | 单段的             |                  |                  |
 | sketch                               | 草图               | 初步框架         |                  |
 | slash                                | 斜线               |                  |                  |
 | slot                                 | 槽                 |                  |                  |
 | smart pointer                        | 智能指针           |                  |                  |
-| SNA, System Network Architecture     | 系统网络体系       |                  |                  |
 | snake_case                           | 蛇底式小写         |                  |                  |
 | snapshot                             | 屏幕截图           |                  |                  |
 | socket                               | 套接字             |                  |                  |
@@ -861,12 +850,10 @@ h2. S
 | specialized array                    | 特化数组           |                  |                  |
 | specification                        | 规格说明           | 规范             |                  |
 | splitter                             | 切分窗口           |                  |                  |
-| SPOT, Single Point of Truth          | 真理的单点性       |                  |                  |
 | sprite                               | 精灵图             |                  |                  |
 | square                               | 平方               |                  |                  |
 | square root                          | 平方根             |                  |                  |
 | squash                               | 碰撞               |                  |                  |
-| SSL, Secure Sockets Layer            | 安全套接字层       |                  |                  |
 | stack                                | 栈                 |                  |                  |
 | stack frame                          | 栈帧               |                  |                  |
 | stakeholder                          |                    |                  |                  |
@@ -901,6 +888,7 @@ h2. S
 | syntax                               | 语法               |                  |                  |
 | system administrator                 | 系统管理员         |                  |                  |
 | system administrator disease         | 系统管理员综合症   |                  |                  |
+| System Network Architecture, SNA     | 系统网络体系       |                  |                  |
 
 
 h2. T
@@ -921,32 +909,30 @@ h2. T
 | text                                 | 文本               |                  |                  |
 | text file                            | 文本文件           |                  |                  |
 | thread                               | 线程               |                  |                  |
-| thread safe                          | 多线程安全         |                  |                  |
+| thread safe                          | 线程安全           |                  |                  |
 | three-valued logic                   | 三值逻辑           |                  |                  |
 | throw                                | 抛出               | 丢掷             | 引发             |
 | throwaway program                    | 一次性程序         |                  |                  |
 | timestamp                            | 时间戳             |                  |                  |
-| token                                | 符号               | 语义单位         | 语元             |
+| token                                | 词法记号           | 语义单位         | 语元             |
 | top-down design                      | 自顶向下的设计     |                  |                  |
 | top-level                            | 顶层               |                  |                  |
-| toplevel                             | 顶层解释器         |                  |                  |
 | trace                                | 追踪               |                  |                  |
 | trailing space                       | 行尾空白           |                  |                  |
 | transaction                          | 事务               |                  |                  |
-| transition networks                  | 转移网络           |                  |                  |
+| transition network                   | 转移网络           |                  |                  |
 | transparent                          | 透明的             |                  |                  |
 | traverse                             | 遍历               |                  |                  |
 | tree                                 | 树                 |                  |                  |
 | tree recursion                       | 树形递归           |                  |                  |
-| trigger                              | 触发               |                  |                  |
+| trigger                              | 触发器             |                  |                  |
 | tuple                                | 元组               |                  |                  |
-| Turing machines                      | 图灵机             |                  |                  |
-| Turing-complete                      | 图灵完备           |                  |                  |
-| Turing-machine                       | 图灵机             |                  |                  |
+| Turing machine                       | 图灵机             |                  |                  |
+| Turing complete                      | 图灵完备           |                  |                  |
 | typable                              | 类型合法           |                  |                  |
 | type                                 | 类型               |                  |                  |
 | type constructor                     | 类构造器           |                  |                  |
-| type declarations                    | 类型声明           |                  |                  |
+| type declaration                     | 类型声明           |                  |                  |
 | type hierarchy                       | 类型层级           |                  |                  |
 | type inference                       | 类型推导           |                  |                  |
 | type name                            | 类型名             |                  |                  |
@@ -960,7 +946,7 @@ h2. T
 h2. U
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
-| UI, user interface                   | 用户界面           |                  |                  |
+| user interface, UI                   | 用户界面           |                  |                  |
 | unary                                | 一元的             |                  |                  |
 | underflow                            | 下溢               |                  |                  |
 | unification                          | 合一               | 统一             |                  |
@@ -969,7 +955,7 @@ h2. U
 | unqualfied                           | 未修饰的           |                  |                  |
 | unwinding                            |                    |                  |                  |
 | uptime                               | 运行时间           |                  |                  |
-| URL, Uniform Resource Locator        | 统一资源定位符     |                  |                  |
+| Uniform Resource Locator, URL        | 统一资源定位符     |                  |                  |
 | user                                 | 用户               |                  |                  |
 | utilities                            | 实用函数           |                  |                  |
 
@@ -985,7 +971,7 @@ h2. V
 | variable capture                     | 变量捕捉           |                  |                  |
 | variadic input                       | 可变输入           |                  |                  |
 | variant                              | 变种               |                  |                  |
-| VC, Venture Capitalist               | 风险投资商         |                  |                  |
+| venture capitalist, VC               | 风险投资商         |                  |                  |
 | vector                               | 向量               |                  |                  |
 | viable function                      | 可行函数           |                  |                  |
 | video                                | 视频               |                  |                  |
@@ -1008,16 +994,18 @@ h2. W
 | window                               | 窗口               |                  |                  |
 | word                                 | 单词               | 字               |                  |
 | wrapper                              | 包装器             | 包装             |                  |
-| WYSIWYG, What You See Is What You Get  | 所见即所得       |                  |                  |
-| WYSIWYW, What You See Is What You Want | 所见即所想       |                  |                  |
+| What You See Is What You Get, WYSIWYG  | 所见即所得       |                  |                  |
+| What You See Is What You Want, WYSIWYW | 所见即所想       |                  |                  |
 
 
 h2. X
 
+
+
 h2. Y
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
-| y combinator                         | Y组合子            |                  |                  |
+| Y combinator                         | Y组合子            |                  |                  |
 
 
 h2. Z
@@ -1030,4 +1018,4 @@ h2. Z
 h2. 专业名词
 
 | *英文*                               | *译法 1*           | 译法 2           | 译法 3           |
-| The_Paradox_of_Choice                | 选择谬论           |                  |                  |
+| The Paradox of Choice                | 选择谬论           |                  |                  |
