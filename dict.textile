@@ -418,6 +418,7 @@ h2. I
 | identical                            | 一致               |                  |                  |
 | identifier                           | 标识符             |                  |                  |
 | identity                             | 同一性             |                  |                  |
+| idle                                 | 闲                 |                  |                  |
 | ill type                             | 类型不正确         |                  |                  |
 | illusion                             | 错觉               |                  |                  |
 | imperative                           | 命令式             |                  |                  |
